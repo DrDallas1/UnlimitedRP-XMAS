@@ -1,0 +1,12 @@
+
+Type Medium
+ID 12833
+
+Interactability Note
+Interactability_Hint Use
+Interactability_Text_Lines 9
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Medium/Furniture/Note
+
+Has_Clip_Prefab false

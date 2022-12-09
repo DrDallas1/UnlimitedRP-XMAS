@@ -11,17 +11,42 @@ Condition_0_Value 0
 Condition_0_Logic Equal
 
 Interactability Quest
-Interactability_Conditions 3
+Interactability_Conditions 8
+// Strawberry Candy
 Interactability_Condition_0_Type Item
-Interactability_Condition_0_ID 394
+Interactability_Condition_0_ID 42220
 Interactability_Condition_0_Amount 3
+// Orange Candy
 Interactability_Condition_1_Type Item
-Interactability_Condition_1_ID 329
-Interactability_Condition_1_Amount 1
-Interactability_Condition_2_Type Quest
-Interactability_Condition_2_ID 12110
-Interactability_Condition_2_Status Active
-Interactability_Condition_2_Logic Equal
+Interactability_Condition_1_ID 42221
+Interactability_Condition_1_Amount 3
+// Milk
+Interactability_Condition_2_Type Item
+Interactability_Condition_2_ID 462
+Interactability_Condition_2_Amount 2
+// Eggs
+Interactability_Condition_3_Type Item
+Interactability_Condition_3_ID 470
+Interactability_Condition_3_Amount 2
+// Sugar
+Interactability_Condition_4_Type Item
+Interactability_Condition_4_ID 42152
+Interactability_Condition_4_Amount 2
+// Flour
+Interactability_Condition_5_Type Flag_Short
+Interactability_Condition_5_ID 12114
+Interactability_Condition_5_Value 1
+Interactability_Condition_5_Logic Equal
+// Frosting
+Interactability_Condition_6_Type Flag_Short
+Interactability_Condition_6_ID 12115
+Interactability_Condition_6_Value 1
+Interactability_Condition_6_Logic Equal
+// Is Quest Active?
+Interactability_Condition_7_Type Quest
+Interactability_Condition_7_ID 12110
+Interactability_Condition_7_Status Active
+Interactability_Condition_7_Logic Equal
 Interactability_Effect 47103
 Interactability_Rewards 1
 Interactability_Reward_0_Type Flag_Short

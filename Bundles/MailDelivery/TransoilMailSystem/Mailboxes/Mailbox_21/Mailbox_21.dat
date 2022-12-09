@@ -10,4 +10,6 @@ Condition_0_Value 21
 Condition_0_Logic Not_Equal
 Condition_0_Allow_Unset
 
+Has_Clip_Prefab false
+
 Exclude_From_Master_Bundle

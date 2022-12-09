@@ -1,0 +1,29 @@
+
+Type Medium
+ID 12834
+
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 12115
+Condition_0_Value 0
+Condition_0_Logic Equal
+Condition_0_Allow_Unset
+
+Interactability Quest
+Interactability_Conditions 1
+Interactability_Condition_0_Type Quest
+Interactability_Condition_0_ID 12110
+Interactability_Condition_0_Status Active
+Interactability_Condition_0_Logic Equal
+Interactability_Effect 7
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 12115
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Objects/Small/Quests/Flour_00
+
+Has_Clip_Prefab false

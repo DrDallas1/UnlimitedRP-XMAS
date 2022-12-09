@@ -25,4 +25,6 @@ Interactability_Reward_1_ID 44000
 Interactability_Reward_1_Value 0
 Interactability_Reward_1_Modification Assign
 
+Has_Clip_Prefab false
+
 Exclude_From_Master_Bundle
