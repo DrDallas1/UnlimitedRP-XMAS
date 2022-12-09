@@ -1,0 +1,11 @@
+GUID 7f773d38561e42d380e2441310cea233
+
+Type Pants
+ID 12207
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Pants/Gingerbread_Bottom

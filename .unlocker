@@ -1,0 +1,4366 @@
+"Available_Instance_ID" "356"
+"Items"
+[
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "54"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "32.69411"
+				"Y" "39.90401"
+				"Z" "28.61113"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.1463825"
+				"Z" "0"
+				"W" "0.9892281"
+			}
+			"Scale"
+			{
+				"X" "285.5571"
+				"Y" "23.32909"
+				"Z" "191.8578"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "CLEAN"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "58"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "906.4842"
+				"Y" "71.79144"
+				"Z" "-362.3691"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.1387428"
+				"Z" "0"
+				"W" "0.9903285"
+			}
+			"Scale"
+			{
+				"X" "749.37"
+				"Y" "12.53502"
+				"Z" "278.5467"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "CLEAN"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "69"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "357.6506"
+				"Y" "58.72146"
+				"Z" "-137.9994"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.2429257"
+				"Z" "0"
+				"W" "0.9700449"
+			}
+			"Scale"
+			{
+				"X" "440.1605"
+				"Y" "21.41521"
+				"Z" "203.6078"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "CLEAN"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "100"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "550.8389"
+				"Y" "71.75458"
+				"Z" "-223.4702"
+			}
+			"Rotation"
+			{
+				"X" "0.07849241"
+				"Y" "0.1105815"
+				"Z" "0.6505198"
+				"W" "0.7472849"
+			}
+			"Scale"
+			{
+				"X" "5.015772"
+				"Y" "5.159094"
+				"Z" "20.65124"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "1"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "103"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "148.9896"
+				"Y" "51.56247"
+				"Z" "-52.76794"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.2762934"
+				"Z" "0"
+				"W" "0.9610733"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "3.910589"
+			}
+			"Shape" "Box"
+			"ID" "146"
+			"Emission" "1"
+			"Audio_Range" "100"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "104"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "554.6689"
+				"Y" "70.09183"
+				"Z" "-223.3053"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"ID" "146"
+			"Emission" "1"
+			"Audio_Range" "75"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "107"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-98.8201"
+				"Y" "26.87024"
+				"Z" "106.522"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"ID" "146"
+			"Emission" "1"
+			"Audio_Range" "150"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "112"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-94.36382"
+				"Y" "29.70878"
+				"Z" "115.043"
+			}
+			"Rotation"
+			{
+				"X" "-0.03029644"
+				"Y" "0.005990949"
+				"Z" "0.6575281"
+				"W" "0.7527968"
+			}
+			"Scale"
+			{
+				"X" "9.003849"
+				"Y" "7.425239"
+				"Z" "15.32081"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "10"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "114"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-95.34872"
+				"Y" "52.031"
+				"Z" "99.44875"
+			}
+			"Rotation"
+			{
+				"X" "0.126771"
+				"Y" "-0.07319118"
+				"Z" "0.856697"
+				"W" "-0.4946134"
+			}
+			"Scale"
+			{
+				"X" "5.219004"
+				"Y" "5.829092"
+				"Z" "72.64626"
+			}
+			"Shape" "Box"
+			"ID" "142"
+			"Emission" "25"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "119"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-99.49276"
+				"Y" "29.4099"
+				"Z" "92.89787"
+			}
+			"Rotation"
+			{
+				"X" "0.1312578"
+				"Y" "0.1711277"
+				"Z" "0.6419568"
+				"W" "0.7357841"
+			}
+			"Scale"
+			{
+				"X" "7.27419"
+				"Y" "6.278163"
+				"Z" "19.20771"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "10"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "120"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "147.7785"
+				"Y" "53.92125"
+				"Z" "-54.46489"
+			}
+			"Rotation"
+			{
+				"X" "0.1312578"
+				"Y" "0.1711277"
+				"Z" "0.6419568"
+				"W" "0.7357841"
+			}
+			"Scale"
+			{
+				"X" "7.84153"
+				"Y" "9.102165"
+				"Z" "34.7644"
+			}
+			"Shape" "Box"
+			"ID" "141"
+			"Emission" "5"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "126"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1136.357"
+				"Y" "9.910259"
+				"Z" "-36.96291"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "2110.033"
+				"Y" "36.40001"
+				"Z" "4609"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "true"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "133"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "235.95"
+				"Y" "95.71442"
+				"Z" "161.0739"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.04305713"
+				"Z" "0"
+				"W" "0.9990726"
+			}
+			"Scale"
+			{
+				"X" "231"
+				"Y" "22"
+				"Z" "103"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "138"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "158.5681"
+				"Y" "129.3966"
+				"Z" "225.1328"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.259703"
+				"Z" "0"
+				"W" "0.9656886"
+			}
+			"Scale"
+			{
+				"X" "211.7574"
+				"Y" "16.46809"
+				"Z" "25.46373"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "139"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "290.8907"
+				"Y" "97.4128"
+				"Z" "839.7168"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.09426337"
+				"Z" "0"
+				"W" "0.9955473"
+			}
+			"Scale"
+			{
+				"X" "87.32275"
+				"Y" "17.39676"
+				"Z" "23.90994"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageSystem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "144"
+		"Item"
+		{
+			"Version" "1"
+			"Tiles"
+			[
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageSystem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "147"
+		"Item"
+		{
+			"Version" "0"
+			"Tiles"
+			[
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageSystem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "148"
+		"Item"
+		{
+			"Version" "0"
+			"Tiles"
+			[
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageSystem, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "149"
+		"Item"
+		{
+			"Version" "0"
+			"Tiles"
+			[
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "160"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "478.9125"
+				"Y" "109.7253"
+				"Z" "272.8786"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1590652"
+				"Z" "0"
+				"W" "0.9872681"
+			}
+			"Scale"
+			{
+				"X" "315.7971"
+				"Y" "71.0571"
+				"Z" "170.7805"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "115"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-95.34872"
+				"Y" "51.41801"
+				"Z" "99.44875"
+			}
+			"Rotation"
+			{
+				"X" "-0.1035081"
+				"Y" "0.103508"
+				"Z" "-0.6994902"
+				"W" "0.6994896"
+			}
+			"Scale"
+			{
+				"X" "5.219004"
+				"Y" "5.829092"
+				"Z" "70.84627"
+			}
+			"Shape" "Box"
+			"ID" "140"
+			"Emission" "20"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "165"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "151.6842"
+				"Y" "69.48184"
+				"Z" "-56.2377"
+			}
+			"Rotation"
+			{
+				"X" "0.1980333"
+				"Y" "-0.1143343"
+				"Z" "0.8430799"
+				"W" "-0.4867512"
+			}
+			"Scale"
+			{
+				"X" "5.219004"
+				"Y" "5.829092"
+				"Z" "46.05589"
+			}
+			"Shape" "Box"
+			"ID" "142"
+			"Emission" "25"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "166"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "151.6842"
+				"Y" "68.86886"
+				"Z" "-56.2377"
+			}
+			"Rotation"
+			{
+				"X" "-0.1616937"
+				"Y" "0.1616933"
+				"Z" "-0.6883721"
+				"W" "0.6883708"
+			}
+			"Scale"
+			{
+				"X" "5.219004"
+				"Y" "5.829092"
+				"Z" "44.25589"
+			}
+			"Shape" "Box"
+			"ID" "140"
+			"Emission" "20"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "167"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "557.0564"
+				"Y" "76.19527"
+				"Z" "-224.9548"
+			}
+			"Rotation"
+			{
+				"X" "-0.0817109"
+				"Y" "0.08171052"
+				"Z" "-0.7023709"
+				"W" "0.7023687"
+			}
+			"Scale"
+			{
+				"X" "5.219004"
+				"Y" "5.829092"
+				"Z" "22.55473"
+			}
+			"Shape" "Box"
+			"ID" "140"
+			"Emission" "20"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.EffectVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "168"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "557.0564"
+				"Y" "76.80825"
+				"Z" "-224.9548"
+			}
+			"Rotation"
+			{
+				"X" "0.1000746"
+				"Y" "-0.05777791"
+				"Z" "0.8602245"
+				"W" "-0.4966494"
+			}
+			"Scale"
+			{
+				"X" "5.219004"
+				"Y" "5.829092"
+				"Z" "24.35472"
+			}
+			"Shape" "Box"
+			"ID" "142"
+			"Emission" "25"
+			"Audio_Range" "1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "174"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1511.791"
+				"Y" "50.73347"
+				"Z" "-165.1233"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-2.457215E-07"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "MafiaIn"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "175"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "706.6887"
+				"Y" "92.51728"
+				"Z" "-77.39034"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-3.727157E-07"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "MafiaOut"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "192"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-463.5365"
+				"Y" "47.94504"
+				"Z" "-249.1223"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.3826835"
+				"Z" "0"
+				"W" "0.9238795"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "193"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-471.8975"
+				"Y" "48.05242"
+				"Z" "-419.4222"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.8660255"
+				"Z" "0"
+				"W" "-0.4999999"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "194"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-372.9186"
+				"Y" "42.20835"
+				"Z" "-819.0934"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7950116"
+				"Z" "0"
+				"W" "0.6065943"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "195"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-356.111"
+				"Y" "42.19086"
+				"Z" "-902.4996"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7090337"
+				"Z" "0"
+				"W" "0.7051746"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "196"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-246.4469"
+				"Y" "60.37823"
+				"Z" "-907.774"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7090337"
+				"Z" "0"
+				"W" "0.7051746"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "197"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-262.1041"
+				"Y" "60.34086"
+				"Z" "-825.135"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.793551"
+				"Z" "0"
+				"W" "0.6085038"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "198"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-281.0557"
+				"Y" "60.31792"
+				"Z" "-757.0361"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.793551"
+				"Z" "0"
+				"W" "0.6085038"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "199"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "755.8973"
+				"Y" "90.39973"
+				"Z" "-191.9578"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9240038"
+				"Z" "0"
+				"W" "-0.3823834"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "200"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "827.0195"
+				"Y" "90.4856"
+				"Z" "-234.2563"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9914872"
+				"Z" "0"
+				"W" "-0.1302042"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "201"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "905.1649"
+				"Y" "90.4978"
+				"Z" "-233.4985"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9999999"
+				"Z" "0"
+				"W" "0.0003248372"
+			}
+			"Scale"
+			{
+				"X" "25.27914"
+				"Y" "2.870792"
+				"Z" "11.2087"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "203"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "752.4701"
+				"Y" "91.81029"
+				"Z" "137.5626"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.002451264"
+				"Z" "0"
+				"W" "0.999997"
+			}
+			"Scale"
+			{
+				"X" "42.53807"
+				"Y" "10.41938"
+				"Z" "18.45846"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "208"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1742.705"
+				"Y" "61.58027"
+				"Z" "355.8171"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-6.680006E-09"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "ShootRange"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "209"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "684.0605"
+				"Y" "92.7297"
+				"Z" "83.67152"
+			}
+			"Rotation"
+			{
+				"X" "5.45421E-09"
+				"Y" "0.7071069"
+				"Z" "5.454206E-09"
+				"W" "0.7071066"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "School"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "210"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "847.2302"
+				"Y" "91.92139"
+				"Z" "-103.7328"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-2.025412E-07"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "Car"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "211"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-543.9935"
+				"Y" "37.0672"
+				"Z" "656.7886"
+			}
+			"Rotation"
+			{
+				"X" "-5.790104E-09"
+				"Y" "0.9849482"
+				"Z" "3.597064E-09"
+				"W" "0.1728502"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "Car2"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "212"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "737.903"
+				"Y" "92.61986"
+				"Z" "163.5258"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "PoliceCar"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "213"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "685.9257"
+				"Y" "92.66134"
+				"Z" "29.05331"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "Medic"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "214"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-542.9262"
+				"Y" "28.84326"
+				"Z" "441.1211"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9823095"
+				"Z" "0"
+				"W" "0.1872648"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "Boat"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "215"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "657.7093"
+				"Y" "91.94868"
+				"Z" "-59.52382"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7071067"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "ADAC"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "218"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "888.7522"
+				"Y" "99.6554"
+				"Z" "-19.51478"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "21.31024"
+				"Y" "20.5581"
+				"Z" "194.2044"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "221"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "756.6503"
+				"Y" "97.9393"
+				"Z" "34.11343"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "53.112"
+				"Y" "22.48455"
+				"Z" "62.09539"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "222"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "737.7837"
+				"Y" "91.81029"
+				"Z" "163.2326"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7071069"
+				"Z" "0"
+				"W" "0.7071066"
+			}
+			"Scale"
+			{
+				"X" "7.478482"
+				"Y" "7.478482"
+				"Z" "11.40566"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "223"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "685.7323"
+				"Y" "93.10545"
+				"Z" "29.17716"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "7.478482"
+				"Y" "7.478482"
+				"Z" "11.40566"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "224"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "657.7301"
+				"Y" "92.43358"
+				"Z" "-59.40366"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "7.478482"
+				"Y" "7.478482"
+				"Z" "11.40566"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "225"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "708.7164"
+				"Y" "86.08752"
+				"Z" "-51.8798"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-1.933006E-07"
+			}
+			"Scale"
+			{
+				"X" "29.02624"
+				"Y" "11.50662"
+				"Z" "37.61182"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "227"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-544.089"
+				"Y" "39.07604"
+				"Z" "657.0256"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9836882"
+				"Z" "0"
+				"W" "0.179882"
+			}
+			"Scale"
+			{
+				"X" "7.478482"
+				"Y" "7.478482"
+				"Z" "11.40566"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "228"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-543.7547"
+				"Y" "29.83802"
+				"Z" "440.7892"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.8189595"
+				"Z" "0"
+				"W" "0.5738514"
+			}
+			"Scale"
+			{
+				"X" "15.58353"
+				"Y" "15.58353"
+				"Z" "19.51071"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "229"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-69.41354"
+				"Y" "93.30911"
+				"Z" "914.9362"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071069"
+				"Z" "0"
+				"W" "0.7071066"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "Airport"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "230"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-182.1806"
+				"Y" "97.06138"
+				"Z" "915.121"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "280.4684"
+				"Y" "18.12339"
+				"Z" "33.0178"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "231"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1742.908"
+				"Y" "61.53378"
+				"Z" "526.8695"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "ShootRange2"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "232"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "855.9548"
+				"Y" "92.29716"
+				"Z" "-9.778786"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.5"
+				"Z" "0"
+				"W" "0.8660254"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "GunStore"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "233"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "246.5104"
+				"Y" "125.5313"
+				"Z" "-744.4553"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.00702572"
+				"Z" "0"
+				"W" "0.9999753"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "HuntingStore"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "255"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "632.3245"
+				"Y" "85.50067"
+				"Z" "-76.75366"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071069"
+				"Z" "0"
+				"W" "0.7071066"
+			}
+			"Scale"
+			{
+				"X" "44.406"
+				"Y" "10.84196"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "257"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "640.335"
+				"Y" "85.50067"
+				"Z" "-76.75366"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071069"
+				"Z" "0"
+				"W" "0.7071066"
+			}
+			"Scale"
+			{
+				"X" "44.406"
+				"Y" "10.84196"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "258"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-274.3401"
+				"Y" "93.7394"
+				"Z" "814.5122"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.6087615"
+				"Z" "0"
+				"W" "0.7933533"
+			}
+			"Scale"
+			{
+				"X" "74.77209"
+				"Y" "18.12339"
+				"Z" "28.19502"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "263"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-397.9302"
+				"Y" "37.53537"
+				"Z" "690.0778"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9852602"
+				"Z" "0"
+				"W" "0.1710626"
+			}
+			"Scale"
+			{
+				"X" "44.406"
+				"Y" "10.84196"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "264"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-400.667"
+				"Y" "37.53537"
+				"Z" "697.1901"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9852602"
+				"Z" "0"
+				"W" "0.1710626"
+			}
+			"Scale"
+			{
+				"X" "44.406"
+				"Y" "10.84196"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "266"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "203.2679"
+				"Y" "118.3794"
+				"Z" "-825.506"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-4.205092E-07"
+			}
+			"Scale"
+			{
+				"X" "44.406"
+				"Y" "10.84196"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "267"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "203.2679"
+				"Y" "118.3794"
+				"Z" "-817.4954"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-4.205092E-07"
+			}
+			"Scale"
+			{
+				"X" "44.406"
+				"Y" "10.84196"
+				"Z" "1"
+			}
+			"Shape" "Box"
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.Landscape, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "268"
+		"Item"
+		{
+			"Tiles"
+			[
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-2"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "-1"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "0"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-2"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "-1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "0"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+				{
+					"Coord"
+					{
+						"X" "1"
+						"Y" "1"
+					}
+					"Materials"
+					[
+						{
+							"GUID" "7e7d75a0b8de4808873323629bb85a7c"
+						}
+						{
+							"GUID" "22b77c4c51514b0fbb66765eedf1a7f4"
+						}
+						{
+							"GUID" "e25f0351181f4ad1a9c0dc31d2fedade"
+						}
+						{
+							"GUID" "cd0edde3850842cd96b33fb01dff871f"
+						}
+						{
+							"GUID" "8729d40d361c4947be4188c70dd7100b"
+						}
+						{
+							"GUID" "143a323599224e7daa4fbc5f8e9e64e1"
+						}
+						{
+							"GUID" "3b85bedaf1a947338e09e73c0e8a07bc"
+						}
+						{
+							"GUID" "5b139c6d86ca439dafa52b9b5414538f"
+						}
+					]
+				}
+			]
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "273"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-388.8653"
+				"Y" "32.77529"
+				"Z" "695.0336"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1305262"
+				"Z" "0"
+				"W" "0.9914449"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "45470"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "274"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "634.243"
+				"Y" "80.94346"
+				"Z" "-87.56882"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "45472"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "275"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "192.2476"
+				"Y" "113.9708"
+				"Z" "-819.482"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "45471"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "284"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "756.3849"
+				"Y" "92.33904"
+				"Z" "63.46316"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-4.205092E-07"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "CCF"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "285"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1653.642"
+				"Y" "70.61279"
+				"Z" "763.4633"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.6827305"
+				"Z" "0"
+				"W" "0.7306703"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "EasterBunkerAdmin1"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.Spawnpoint, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "286"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "441.9592"
+				"Y" "110.7949"
+				"Z" "695.7466"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.4226979"
+				"Z" "0"
+				"W" "0.9062707"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"ID" "EasterBunkerAdmin0"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "287"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "575.8764"
+				"Y" "125.2939"
+				"Z" "820.2197"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.00176435"
+				"Z" "0"
+				"W" "0.9999985"
+			}
+			"Scale"
+			{
+				"X" "62.03179"
+				"Y" "61.30455"
+				"Z" "87.00244"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "288"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "520.6738"
+				"Y" "136.9187"
+				"Z" "912.7666"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7058582"
+				"Z" "0"
+				"W" "0.7083532"
+			}
+			"Scale"
+			{
+				"X" "66.33913"
+				"Y" "86.28527"
+				"Z" "187.4343"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "290"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "372.232"
+				"Y" "107.2458"
+				"Z" "-341.7378"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "202.2005"
+				"Y" "22.48455"
+				"Z" "32.3661"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "291"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "415.2513"
+				"Y" "107.2458"
+				"Z" "-307.0172"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "97.58157"
+				"Y" "19.24398"
+				"Z" "29.12555"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "292"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "406.1515"
+				"Y" "107.2458"
+				"Z" "-266.537"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "97.58157"
+				"Y" "19.24398"
+				"Z" "46.05804"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "295"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-741.9263"
+				"Y" "37.33259"
+				"Z" "182.1743"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.2629797"
+				"Z" "0"
+				"W" "0.9648014"
+			}
+			"Scale"
+			{
+				"X" "140.684"
+				"Y" "26.82326"
+				"Z" "28.89822"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "296"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-814.6722"
+				"Y" "76.44641"
+				"Z" "-763.14"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.003317401"
+				"Z" "0"
+				"W" "0.9999945"
+			}
+			"Scale"
+			{
+				"X" "173.3469"
+				"Y" "180.8171"
+				"Z" "167.7647"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "297"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "211.6109"
+				"Y" "117.4543"
+				"Z" "-821.6503"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.006715661"
+				"Z" "0"
+				"W" "0.9999775"
+			}
+			"Scale"
+			{
+				"X" "65.82919"
+				"Y" "29.19347"
+				"Z" "15.3052"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "298"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "636.0742"
+				"Y" "84.53613"
+				"Z" "-67.29296"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7118396"
+				"Z" "0"
+				"W" "0.7023422"
+			}
+			"Scale"
+			{
+				"X" "65.82919"
+				"Y" "29.19347"
+				"Z" "15.3052"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "299"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-407.6075"
+				"Y" "35.86339"
+				"Z" "690.2253"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9857021"
+				"Z" "0"
+				"W" "0.1684974"
+			}
+			"Scale"
+			{
+				"X" "65.82919"
+				"Y" "29.19347"
+				"Z" "15.3052"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "301"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-174.3078"
+				"Y" "78.49157"
+				"Z" "328.22"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.5007926"
+				"Z" "0"
+				"W" "0.8655674"
+			}
+			"Scale"
+			{
+				"X" "217.445"
+				"Y" "16.46809"
+				"Z" "27.94156"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "302"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "647.689"
+				"Y" "101.7258"
+				"Z" "32.98625"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "25.53623"
+				"Y" "39.30534"
+				"Z" "25.03394"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "303"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "596.2163"
+				"Y" "96.15808"
+				"Z" "-58.34096"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "18.97324"
+				"Y" "16.62126"
+				"Z" "29.54938"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "304"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "225.6031"
+				"Y" "128.2691"
+				"Z" "-791.4037"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "18.97324"
+				"Y" "16.62126"
+				"Z" "29.54938"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "305"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-385.0323"
+				"Y" "47.51615"
+				"Z" "540.3397"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1744636"
+				"Z" "0"
+				"W" "0.9846636"
+			}
+			"Scale"
+			{
+				"X" "18.97324"
+				"Y" "16.62126"
+				"Z" "29.54938"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "306"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "503.1291"
+				"Y" "102.972"
+				"Z" "790.3339"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.01088929"
+				"Z" "0"
+				"W" "0.9999407"
+			}
+			"Scale"
+			{
+				"X" "36.4087"
+				"Y" "16.62126"
+				"Z" "45.43323"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "307"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "696.2543"
+				"Y" "89.80627"
+				"Z" "85.18295"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "34.2027"
+				"Y" "22.48455"
+				"Z" "17.22658"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "308"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "639.1895"
+				"Y" "93.03542"
+				"Z" "-149.3659"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "53.61787"
+				"Y" "22.48455"
+				"Z" "41.5498"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "309"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-369.1546"
+				"Y" "56.53172"
+				"Z" "-360.4471"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.272504"
+				"Z" "0"
+				"W" "0.9621547"
+			}
+			"Scale"
+			{
+				"X" "79.16661"
+				"Y" "22.48455"
+				"Z" "43.46021"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "310"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "888.7522"
+				"Y" "99.6554"
+				"Z" "11.22941"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071068"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "21.65933"
+				"Y" "20.5581"
+				"Z" "100.2757"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "312"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-513.9496"
+				"Y" "42.363"
+				"Z" "762.0294"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9857021"
+				"Z" "0"
+				"W" "0.1684974"
+			}
+			"Scale"
+			{
+				"X" "27.79239"
+				"Y" "29.19347"
+				"Z" "23.68245"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "313"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-435.034"
+				"Y" "43.63993"
+				"Z" "557.1445"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9857021"
+				"Z" "0"
+				"W" "0.1684974"
+			}
+			"Scale"
+			{
+				"X" "18.43779"
+				"Y" "14.42132"
+				"Z" "14.32786"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "314"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-482.1223"
+				"Y" "43.63993"
+				"Z" "687.314"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9857021"
+				"Z" "0"
+				"W" "0.1684974"
+			}
+			"Scale"
+			{
+				"X" "15.3184"
+				"Y" "14.42132"
+				"Z" "14.32786"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "315"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-509.1538"
+				"Y" "48.37004"
+				"Z" "677.3932"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9857021"
+				"Z" "0"
+				"W" "0.1684974"
+			}
+			"Scale"
+			{
+				"X" "10.06754"
+				"Y" "14.42132"
+				"Z" "17.22813"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "316"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-523.6396"
+				"Y" "32.48035"
+				"Z" "664.2397"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.9857021"
+				"Z" "0"
+				"W" "0.1684974"
+			}
+			"Scale"
+			{
+				"X" "24.38522"
+				"Y" "29.19347"
+				"Z" "35.65353"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "317"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "755.9258"
+				"Y" "131.7011"
+				"Z" "-48.01928"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "23.3968"
+				"Y" "11.79747"
+				"Z" "31.3928"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "320"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "755.9258"
+				"Y" "113.6605"
+				"Z" "-35.43548"
+			}
+			"Rotation"
+			{
+				"X" "0.7071068"
+				"Y" "0"
+				"Z" "0"
+				"W" "0.7071068"
+			}
+			"Scale"
+			{
+				"X" "23.3968"
+				"Y" "11.79747"
+				"Z" "47.9174"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "322"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "847.2017"
+				"Y" "92.43358"
+				"Z" "-103.6007"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "-1.524011E-07"
+			}
+			"Scale"
+			{
+				"X" "7.478482"
+				"Y" "7.478482"
+				"Z" "11.40566"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "300"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-53.47522"
+				"Y" "75.48583"
+				"Z" "-132.1639"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1800645"
+				"Z" "0"
+				"W" "0.9836548"
+			}
+			"Scale"
+			{
+				"X" "120.0125"
+				"Y" "22.48455"
+				"Z" "53.54796"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "324"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "651.3026"
+				"Y" "145.0243"
+				"Z" "0.1894031"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7118396"
+				"Z" "0"
+				"W" "0.7023422"
+			}
+			"Scale"
+			{
+				"X" "13.26985"
+				"Y" "10.16633"
+				"Z" "15.66086"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "325"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "716.1714"
+				"Y" "108.188"
+				"Z" "131.5513"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7118396"
+				"Z" "0"
+				"W" "0.7023422"
+			}
+			"Scale"
+			{
+				"X" "13.26985"
+				"Y" "10.16633"
+				"Z" "15.66086"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "326"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "720.4599"
+				"Y" "108.188"
+				"Z" "145.8286"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7118396"
+				"Z" "0"
+				"W" "0.7023422"
+			}
+			"Scale"
+			{
+				"X" "13.26985"
+				"Y" "10.16633"
+				"Z" "15.66086"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "327"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "685.9573"
+				"Y" "110.5883"
+				"Z" "0.6082001"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7118396"
+				"Z" "0"
+				"W" "0.7023422"
+			}
+			"Scale"
+			{
+				"X" "13.26985"
+				"Y" "10.16633"
+				"Z" "15.66086"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "331"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-318.1977"
+				"Y" "70.11461"
+				"Z" "245.8464"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.1230543"
+				"Z" "0"
+				"W" "0.9924"
+			}
+			"Scale"
+			{
+				"X" "74.40222"
+				"Y" "22.48455"
+				"Z" "53.54796"
+			}
+			"Shape" "Box"
+			"Block_Player" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "333"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "363.2888"
+				"Y" "147.0457"
+				"Z" "549.6141"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.0937643"
+				"Z" "0"
+				"W" "0.9955944"
+			}
+			"Scale"
+			{
+				"X" "4.622584"
+				"Y" "1"
+				"Z" "4.320526"
+			}
+			"Shape" "Box"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "334"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "2048"
+				"Y" "2048"
+				"Z" "2048"
+			}
+			"Shape" "Box"
+			"Mode" "ADDITIVE"
+			"Instanced_Meshes" "true"
+			"Resources" "true"
+			"Objects" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "339"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "170.5518"
+				"Y" "88.01025"
+				"Z" "121.3687"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "39.41333"
+				"Y" "39.41333"
+				"Z" "39.41333"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "340"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "200.8588"
+				"Y" "88.02957"
+				"Z" "122.67"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "49.33334"
+				"Y" "49.33334"
+				"Z" "49.33334"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "341"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "210.6539"
+				"Y" "88.04819"
+				"Z" "165.8813"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "60.90667"
+				"Y" "60.90667"
+				"Z" "60.90667"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "342"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "286.5336"
+				"Y" "88.0553"
+				"Z" "190.6848"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "122"
+				"Y" "40"
+				"Z" "112"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "343"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-3.793349"
+				"Y" "100.206"
+				"Z" "616.4984"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "32"
+				"Y" "16"
+				"Z" "32"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "344"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "463.1489"
+				"Y" "105.8393"
+				"Z" "220.0986"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "77.44"
+				"Y" "77.44"
+				"Z" "77.44"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "345"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "395.2387"
+				"Y" "95.38391"
+				"Z" "181.5739"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "103.8933"
+				"Y" "103.8933"
+				"Z" "103.8933"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "346"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "519.9461"
+				"Y" "114.7031"
+				"Z" "267.0266"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "120"
+				"Y" "36"
+				"Z" "76"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "347"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "583.2278"
+				"Y" "113.8017"
+				"Z" "302.9948"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "14.61333"
+				"Y" "14.61333"
+				"Z" "14.61333"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "348"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "447.1624"
+				"Y" "114.5938"
+				"Z" "181.8647"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "24.53333"
+				"Y" "24.53333"
+				"Z" "24.53333"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "122"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "335"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1507.766"
+				"Y" "50.70906"
+				"Z" "-159.5349"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "32"
+				"Y" "32"
+				"Z" "32"
+			}
+			"Shape" "Sphere"
+			"No_Weapons" "true"
+			"No_Buildables" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "349"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1507.112"
+				"Y" "50.70906"
+				"Z" "-156.7779"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "27.84"
+				"Y" "27.84"
+				"Z" "27.84"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "false"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "350"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "712.7921"
+				"Y" "100.1724"
+				"Z" "135.7933"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "10"
+				"Y" "4"
+				"Z" "8"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "351"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-842.9991"
+				"Y" "32.96918"
+				"Z" "-218.1147"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "50"
+				"Y" "50"
+				"Z" "50"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "false"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "352"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-736.5654"
+				"Y" "33.04106"
+				"Z" "51.74213"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "50"
+				"Y" "50"
+				"Z" "50"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "false"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "353"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-46.72775"
+				"Y" "70.2359"
+				"Z" "-133.8271"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "84"
+				"Y" "20"
+				"Z" "68"
+			}
+			"Shape" "Box"
+			"Ambiance_ID" "0"
+			"No_Water" "true"
+			"No_Lighting" "true"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.AmbianceVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "354"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-233.8355"
+				"Y" "15.4672"
+				"Z" "12.97949"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "8"
+				"Y" "8"
+				"Z" "8"
+			}
+			"Shape" "Sphere"
+			"Ambiance_ID" "0"
+			"No_Water" "false"
+			"No_Lighting" "false"
+			"Weather_Mask" "4294967295"
+			"Override_Fog" "false"
+			"Fog_Color"
+			{
+				"R" "255"
+				"G" "255"
+				"B" "255"
+				"A" "255"
+			}
+			"Fog_Intensity" "0"
+			"Override_Atmospheric_Fog" "false"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "336"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1703.193"
+				"Y" "60.33332"
+				"Z" "218.501"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "84.90666"
+				"Y" "84.90666"
+				"Z" "84.90666"
+			}
+			"Shape" "Sphere"
+			"No_Weapons" "true"
+			"No_Buildables" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "337"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1716.459"
+				"Y" "61.28406"
+				"Z" "47.6301"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "65.06667"
+				"Y" "65.06667"
+				"Z" "65.06667"
+			}
+			"Shape" "Sphere"
+			"No_Weapons" "true"
+			"No_Buildables" "true"
+		}
+	}
+	{
+		"Type" "SDG.Unturned.SafezoneVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "338"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1716.384"
+				"Y" "62.18426"
+				"Z" "-65.01901"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "45.22667"
+				"Y" "45.22667"
+				"Z" "45.22667"
+			}
+			"Shape" "Sphere"
+			"No_Weapons" "true"
+			"No_Buildables" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "355"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-150.6391"
+				"Y" "70.735"
+				"Z" "594.4078"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.4222039"
+				"Z" "0"
+				"W" "0.9065009"
+			}
+			"Scale"
+			{
+				"X" "67.17661"
+				"Y" "8.615041"
+				"Z" "113.1446"
+			}
+			"Shape" "Box"
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "DIRTY"
+		}
+	}
+]

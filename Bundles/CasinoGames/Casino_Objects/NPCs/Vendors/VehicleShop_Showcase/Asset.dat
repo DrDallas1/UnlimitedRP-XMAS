@@ -1,0 +1,70 @@
+GUID 3919591a068044358b720bf8b36acb21
+
+Type Vendor
+ID 12027
+
+
+Buying 0
+
+Selling 5
+//TODO:Remove
+// Kamaz - Black
+Selling_0_ID 12201
+Selling_0_Cost 5
+Selling_0_Rewards 1
+Selling_0_Reward_0_Type Vehicle
+Selling_0_Reward_0_ID 15070
+Selling_0_Reward_0_Spawnpoint VehicleShopSell
+// GT - Black
+Selling_1_ID 12202
+Selling_1_Cost 5
+Selling_1_Rewards 1
+Selling_1_Reward_0_Type Vehicle
+Selling_1_Reward_0_ID 4
+Selling_1_Reward_0_Spawnpoint VehicleShopSell
+// Charger - Black
+Selling_2_ID 12203
+Selling_2_Cost 5
+Selling_2_Rewards 1
+Selling_2_Reward_0_Type Vehicle
+Selling_2_Reward_0_ID 4
+Selling_2_Reward_0_Spawnpoint VehicleShopSell
+// Ambulance - Red (Allow)
+Selling_3_ID 12204
+Selling_3_Cost 5
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Flag_Short
+Selling_3_Condition_0_ID 1000
+Selling_3_Condition_0_Value 1
+Selling_3_Condition_0_Logic Equal
+Selling_3_Rewards 1
+Selling_3_Reward_0_Type Vehicle
+Selling_3_Reward_0_ID 4
+Selling_3_Reward_0_Spawnpoint VehicleShopSell
+// Ambulance - Red (Locked)
+Selling_4_ID 12205
+Selling_4_Cost 0
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Flag_Short
+Selling_4_Condition_0_ID 1000
+Selling_4_Condition_0_Value 0
+Selling_4_Condition_0_Allow_Unset
+Selling_4_Condition_0_Logic Equal
+Selling_5_ID 12204
+Selling_5_Cost 5
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Flag_Short
+Selling_5_Condition_0_ID 1000
+Selling_5_Condition_0_Value 1
+Selling_5_Condition_0_Logic Equal
+Selling_5_Rewards 1
+Selling_5_Reward_0_Type Vehicle
+Selling_5_Reward_0_ID 4
+Selling_5_Reward_0_Spawnpoint VehicleShopSell
+
+
+
+Currency 6650ca8f765d4a68bfe54912146da416
+
+
+Disable_Sorting

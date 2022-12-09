@@ -1,0 +1,4 @@
+Name Debug Shit
+Description Your bank account balance. 
+
+Condition_0 Win_Total: ${0}

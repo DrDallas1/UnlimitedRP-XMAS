@@ -1,0 +1,14 @@
+GUID e75ab3ad5f4249e1a4a714a38ccb6348
+
+Type Mask
+ID 12208
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Hair
+Beard
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Masks/Gingerbread_Mask

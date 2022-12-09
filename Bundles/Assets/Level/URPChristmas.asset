@@ -1,0 +1,44 @@
+"Metadata"
+{
+	"GUID" "61ea309d441d460eac4b4327772db615"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Weather_Types"
+	[
+		{
+			// Gentle snowfall
+			"Asset" "22a2d4cf2d0341e08bee3d9557b78d23"
+			"Min_Frequency" "79.5"
+			"Max_Frequency" "80"
+			"Min_Duration" "1"
+			"Max_Duration" "1.2"
+		}
+		{
+			// Blizzard
+			"Asset" "903577da2ecd4f5784b2f7aed8c300c1"
+			"Min_Frequency" "19.5"
+			"Max_Frequency" "20"
+			"Min_Duration" "1"
+			"Max_Duration" "1.2"
+		}
+	]
+	"Skills"
+	[
+		{
+			// Get Drunk!
+			"Id" "Immunity"
+			"Default_Level" "0"
+			"Max_Unlockable_Level" "2"
+		}
+	]
+	"Should_Animate_Background_Image" "true"
+	"Loading_Screen_Music"
+	[
+		{   
+		    "MasterBundle" "nylexadvanced.masterbundle"
+			"Loop" "Assets/IntroLoop.ogg"
+		}
+	]
+}

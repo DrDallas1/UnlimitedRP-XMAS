@@ -1,0 +1,24 @@
+GUID 98b6abe3f2ec4127b080bd8104b5c00d
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 12057
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Health 100
+Range 4
+Offset 0.007
+
+Locked
+Invulnerable
+
+Has_Clip_Prefab false
+
+Bypass_Pickup_Ownership true
+
+Salvage_Duration_Multiplier 0.3

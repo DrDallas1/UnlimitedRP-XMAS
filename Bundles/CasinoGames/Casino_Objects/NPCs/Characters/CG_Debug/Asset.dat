@@ -1,0 +1,14 @@
+GUID 2f0d94d170164eac8500da50176e3e27
+Type NPC
+ID 10000
+
+Face 1
+Color_Skin #FFD5C3
+Color_Hair #1B110A
+
+
+// Welcome
+Dialogue 10001
+
+Secondary 2005
+Equipped Secondary

@@ -1,0 +1,23 @@
+GUID 5f9cf15df0784caeb9b0e9bacec4d474
+
+Type Dialogue
+// Welcome
+ID 12021
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+
+// Vendor_Completed
+Response_0_Dialogue 12021
+
+// Store
+Response_0_Vendor 12023
+
+//Deposit or Withdraw
+Response_1_Dialogue 12022
+
+Response_2_Dialogue 0

@@ -1,0 +1,12 @@
+GUID d06c95680d46403a886fb7e6f55a0240
+
+Type Medium
+ID 44028
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 3
+Condition_0_Logic Equal
+
+Exclude_From_Master_Bundle

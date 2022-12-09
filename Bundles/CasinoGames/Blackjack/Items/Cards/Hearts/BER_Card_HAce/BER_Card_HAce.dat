@@ -1,0 +1,33 @@
+GUID 4901eeca8bbf466ca02034be885f3b0d
+
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Note
+ID 62404
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Health 100
+Range 4
+Offset 0.025
+
+Locked
+Invulnerable
+
+Explosion 58
+
+Bypass_Pickup_Ownership true
+
+Salvage_Duration_Multiplier 0.3
+
+Blueprints 1 
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 62404
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 62393
+Blueprint_0_Products 1
+Blueprint_0_Build 27

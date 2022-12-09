@@ -1,0 +1,9 @@
+Name A Gingerbread Mansion.
+Description <color=mythical> Santa </color> wants a nice Gingerbread Mansion this Christmas. Get the necessary ingredients and bake him the greatest Gingerbread house he has ever seen.
+
+Condition_0 <color=mythical>Gingerbread Mansion</color> baked for <color=mythical>Santa</color>: {0}/1
+
+Reward_0 Quest Complete: A Gingerbread Mansion.
+Reward_1 Gingerbread Outfit!
+Reward_2 <color=#FFFFFF00>.</color>
+Reward_3 <color=#FFFFFF00>.</color>

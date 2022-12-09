@@ -1,0 +1,16 @@
+GUID f83d6e64114a4547b7456cbce2eaa6f6
+Type Medium
+ID 2020
+
+Interactability Binary_State
+Interactability_Rewards 3
+Interactability_Reward_0_Type Experience
+Interactability_Reward_0_Value 10
+
+Interactability_Reward_1_Type Event
+Interactability_Reward_1_ID test2
+
+Interactability_Reward_2_Type Event
+Interactability_Reward_2_ID test1
+
+Exclude_From_Master_Bundle

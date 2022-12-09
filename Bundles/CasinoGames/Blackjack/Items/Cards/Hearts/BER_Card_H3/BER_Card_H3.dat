@@ -1,0 +1,33 @@
+GUID d33c528031ff49779412b18f3e894762
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Note
+ID 62396
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Health 100
+Range 4
+Offset 0.025
+
+Locked
+Invulnerable
+
+Explosion 58
+
+Bypass_Pickup_Ownership true
+
+Salvage_Duration_Multiplier 0.3
+
+Blueprints 1 
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 62396
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Product 62393
+Blueprint_0_Products 1
+Blueprint_0_Build 27

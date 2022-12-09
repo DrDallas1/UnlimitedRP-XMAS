@@ -1,0 +1,16 @@
+GUID 2abbaffeb2ab441cbcde70603777027f
+
+Type NPC
+ID 12299
+
+Face 1
+Color_Skin #FFD5C3
+Color_Hair #FBF2FE
+Hat 12062
+Shirt 279
+Pants 280
+Beard 8
+
+
+// Welcome
+Dialogue 12026

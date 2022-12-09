@@ -1,0 +1,13 @@
+GUID 973ef560117b473caade7aee2f57b76a
+
+Type Medium
+ID 44081
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 21
+Condition_0_Logic Not_Equal
+Condition_0_Allow_Unset
+
+Exclude_From_Master_Bundle

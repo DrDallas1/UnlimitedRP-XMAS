@@ -1,0 +1,1309 @@
+ManifestFileVersion: 0
+CRC: 2787544456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1e2cebfa8a1a8a531c25d88e43d9ad9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12d7868adbdd0aec111104579e646399
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 226b9791b995b4546a9fd2ecc399865e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7b0c7a1890d68343a53b847ecace7a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3205d0128f69364428cde7d4ad58552b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e854a062516b19e408d34000c8d2104c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a6574c231b4b6942a07bda09514bf64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ab62005c5a0f4a4483899715156051d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78740986f845bd943b99707a83731520, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b425c0a6dc9b8f8499f603b23ad7f6bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b7f1407af30065408ffc4b603ee6375, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca012cd737bcc5140ba90835bacf32e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0af3e9f856260d9408db4f1f0a3f28ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 851463f9b107a3146a0057e73b10cc15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72c4ae5b4c6101140ade1a4f392af24a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6451592c21462b841a8b368e60a8d598, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccaece6c56084364397abc43ecabdd78, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1034cbbcaae94984ebaf778a004678a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a452a3d8f7598349a90289ac3a0d802, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4c8585d1812d0b48b5237e0176d93fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e9242e5cb8b78429e422f41de137fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7d6853ecadd64e4c9570b2153edf496, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Nylex/PRODEF/Etc/ThermalPCase/Nav.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_10/Object.prefab
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1/Clip.prefab
+- Assets/Nylex/Questlines/Strength/Quest 6/Sapling/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Copper/Resource.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/JewelryStoreBagWatches(1).png
+- Assets/Nylex/Items/MailboxPackage/Item.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantBarricadeDisplay/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Materials/UKeyCardtex2.mat
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixerDone/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader2/Object.prefab
+- Assets/Nylex/Testing/SniperBlock/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/LargeDiamondBase/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/UCJewellerCurvedGlassOBJ.fbx
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateClosed/Object.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_2/Christmas_Music_Mesh_2.ogg
+- Assets/Nylex/Effects/DrillSetupSound/DrillSetupSoundEffect.ogg
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Watches2/UCJewellerWatches2.fbx
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/ThermalPaste/Animations.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry5/TeammateEntry.mat
+- Assets/Nylex/Assets/PRODEF/Etc/SafetyDepositBox/UVaultBigTex (1).png
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Emerald.mat
+- Assets/Nylex/JewelryStore/SafeDoor/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/ComputerFalse/UPCTex1.png
+- Assets/Nylex/PRODEF/RewireBox/GlassDoor1/Clip.prefab
+- Assets/Nylex/PRODEF/Escape/EscapeMarker/Object.prefab
+- Assets/Nylex/Testing/SniperBlock/Object.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerTrue/Object.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Notepad/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/ThermalP/UThermalPasteTex.mat
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateBlueprint/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Necklaces/UCJewellerNecklace.3
+  (2).fbx
+- Assets/Nylex/Assets/PRODEF/Safe/UTexSafe1.png
+- Assets/Nylex/JewelryStore/Effects/Notification/JewelryStoreNotif.anim
+- Assets/Nylex/Assets/PRODEF/VaultDoor/yt5s.com - Payday 2 Soundtrack_ Shadow Raid
+  Escape (128 kbps).mp3
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixerStand/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/PRODEFLogo/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJeweller CornerBase.fbx
+- Assets/Nylex/PRODEF/Computers/ComputerFalse/Clip.prefab
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start 1/Nav.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_5/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Silver/Resource.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/StartTicket/UProdefTicket1Leader.obj
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.3/Nav.prefab
+- Assets/Nylex/Effects/ModelEffectTest/Humour.anim
+- Assets/Nylex/GOBank/Effects/Notification/Effect.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.31/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2/Clip.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/ArtGallery.png
+- Assets/Nylex/Assets/PRODEF/Escape/ElevatorDoorAnimation/No Name.mat
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/Loco_Barrel/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJeweller ForwardBase.fbx
+- Assets/Nylex/Objects/MapNonCriminal/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Materials/UKeyCard2tex3.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Iron.mat
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/USaplingTex.png
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateClosed/Clip.prefab
+- Assets/Nylex/PRODEF/Effects/Notification/ABeeZee-Regular.ttf
+- Assets/Nylex/PRODEF/VaultDoor/Clip.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_8/Nav.prefab
+- Assets/Nylex/Effects/EpicMexicoEffect/Effect.controller
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Diamond12.mat
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/1.1 Anims/Close.anim
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Bracelets/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/ForwardOBJ/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/UKCardReaderTex3 (2).png
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateOpen/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 8/unknown (75).mat
+- Assets/Nylex/Assets/PRODEF/Keycards/PickupSound.ogg.ogg
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Copper/Stump_Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Drills/RepeatingSound.mp3
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_7/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 10/UCLumberHelmTex4.mat
+- Assets/Nylex/PRODEF/Escape/Elevator/Nav.prefab
+- Assets/Nylex/JailSystem/Objects/Doors/JailDoor1/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Keycard3Anim.fbx
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.2/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/RewireBoxWire1.mp3
+- Assets/Nylex/PRODEF/Computers/ComputerTrue/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader2/Nav.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/NewImages/GOBank_Upscale.png
+- Assets/Nylex/Objects/GGoldRingObject/Object.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3.1/Clip.prefab
+- Assets/Nylex/VehicleShop/Items/KamazShop/Kamaz-2.png
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_3/Christmas_Music_Mesh_3.ogg
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/JailKeyBoxDooranims/Close.anim
+- Assets/Nylex/PRODEF/Etc/SafetyDepositBox/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/CoalOneIn/Object.prefab
+- Assets/Nylex/PRODEF/RewireBox/GlassDoor1/Nav.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry2/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Materials/UKCardReaderTex3 (2).mat
+- Assets/Nylex/PRODEF/Etc/JailKeyBoxDoor/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/UjailVaultDoorTex.png
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/JailKeyBoxDooranims/Open.anim
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Bracelets/Nav.prefab
+- Assets/Nylex/Testing/Sniper/Barricade.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBChemicalBox/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 4/PlankStack/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/UPCTex2.png
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_EscapeWall/Object.prefab
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SafeDoor2/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Planks/UCLumberPlanks2.fbx
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/UVaultJailKeyBoxDoorKeys.fbx
+- Assets/Nylex/PRODEF/Computers/ComputerFalse.1/Clip.prefab
+- Assets/Nylex/HeistNonSpecific/WorldMapNotification/Object.prefab
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/ChainsBag/Animations.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/UCLumberSaw1.fbx
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1.1/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/NonVaultKillZone/Object.prefab
+- Assets/Nylex/PRODEF/Etc/SafetyDepositBox/Nav.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn5/Object.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBoxOBJ/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/USucurityBoxTex.png
+- Assets/Nylex/PRODEF/RewireBox/RewireBox2.1/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/LargeDiamond/Object.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerTrue/Nav.prefab
+- Assets/Nylex/JailSystem/Objects/NPCNotepadOutfit/Character_Mesh_3P_Override_0.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Keycard Anims/Close.anim
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/JewelryStoreBagBracelets.png
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_4/Christmas_Music_Mesh_4.ogg
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry4/TeammateEntry.mat
+- Assets/Nylex/JewelryStore/Effects/Notification/JewelryStore.png
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Watches/UCJewellerWatchesArmature.fbx
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Carbon/Resource.prefab
+- Assets/Nylex/Questlines/Hierophant/General/10Ingots/10IronIngots/Item.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_6/Object.prefab
+- Assets/Nylex/PRODEF/Etc/ThermalP/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Rings/UCJewellerRings(1).fbx
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Boxes/UCDrugSmallBoxBase4.fbx
+- Assets/Nylex/Assets/PRODEF/Etc/StartTicket/ProdefTicket2Tex.mat
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Broken/UCJeweller Necklace(4x1)Broken(3).fbx
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoor2/UVanDoor5.fbx
+- Assets/Nylex/Meltdown/Effects/Notification/Effect.prefab
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SmallSafeDoor1/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Drills/DrillWithAnims1.fbx
+- Assets/Nylex/PRODEF/RewireBox/RewireBox2.1/Clip.prefab
+- Assets/Nylex/VehicleShop/Items/KamazShop/VehicleShop1.fbx
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/UjailVaultDoorTex (1).mat
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Animations.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBoxOBJ/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.31/Object.prefab
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_EscapeWall/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantHelmetSpecial/Item.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/GoBank.png
+- Assets/Nylex/Assets/Questlines/Strength/Planks/UCLUmberPlankTex2.mat
+- Assets/Nylex/PRODEF/Keycards/Keycard3/Clip.prefab
+- Assets/Nylex/PRODEF/RewireBox/GlassDoor/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Drills/UDrilltex3.png
+- Assets/Nylex/JailSystem/Objects/Buttons/Notepad/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/SewerGrate2.1/Nav.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/NewImages/ArtGallery_Upscale.png
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Rings/Object.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/10GoldIngots.fbx
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.5/Nav.prefab
+- Assets/Nylex/Lootable/GoldBarItem/Item.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Silver.mat
+- Assets/Nylex/Assets/JailSystem/Notepad/NotepadEwad.jpg
+- Assets/Nylex/JewelryStore/Effects/Notification/JewelryStoreNotif.controller
+- Assets/Nylex/Assets/PRODEF/Computers/UPCTex2.mat
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/ChainsBag/Item.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantBarricadeDisplay/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/ThermalPCase/UThermalPasteCasetex.png
+- Assets/Nylex/PRODEF/VaultDoor/Fuckingworkingarmafuck_4.fbx
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn4/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Diamond/Stump_Clip.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/Copper.mat
+- Assets/Nylex/PRODEF/Computers/ComputerOff/Clip.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/Elevator_Controller.controller
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/UVaultKCardReader3Tex.png
+- Assets/Nylex/PRODEF/Keycards/KeycardReader1.1/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/Material.002.mat
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/BraceletsBag/Item.prefab
+- Assets/Nylex/Assets/Lootable/Anim/Open.anim
+- Assets/Nylex/Questlines/Strength/Quest 4/LogToPlankStack/Nav.prefab
+- Assets/Nylex/PRODEF/Police/DoorEntrance/Nav.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/BerryChem/Animations.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/NecklaceOBJ(4x1)/Object.prefab
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/JailVaultDoorOpening1.mp3
+- Assets/Nylex/Assets/PRODEF/Keycards/Keycard Anims/Open.anim
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryInput/Clip.prefab
+- Assets/Nylex/Assets/JailSystem/ExitSignsProp/ExitSign.fbx
+- Assets/Nylex/JewelryStore/Effects/Notification/NewerImages/ArtGallery.png
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/ULootBagTex3-2.png
+- Assets/Nylex/Assets/PRODEF/Escape/VanBody/UVanBody4.fbx
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SmallSafeDoor1/Clip.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnimation/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/VaultDoor/Materials/UGlassDoorTex (1).mat
+- Assets/Nylex/JewelryStore/Effects/Notification/NewImages/PRODEF_Upscale.png
+- Assets/Nylex/PRODEF/Etc/VaultKillZone/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/CurvedGlass/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/UVanDoorRight2.fbx
+- Assets/Nylex/PRODEF/Etc/SewerGrate1.1/Object.prefab
+- Assets/Nylex/Effects/VehicleExplosion/Blackjack_Sound_2.ogg
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Watches2/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBRChemicalBox/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/PRODEFSign/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/Loco_Barrel/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBRChemicalBox/Nav.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/NewImages/JewelryStore_waifu2x_art_noise3_tta_1.png
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/Watches(2)Bag/Animations.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Necklaces/NecklaceBox/UCJewellerNecklaceBox(1).fbx
+- Assets/Nylex/JewelryStore/VoiceLineCaller/VoiceLineCallerJewelry.mat
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/UHackBoxDoor (4).fbx
+- Assets/Nylex/Assets/PRODEF/Etc/StartTicket/ProdefTicket2Tex.png
+- Assets/Nylex/Assets/JailSystem/Button1P5/Texture (3).png
+- Assets/Nylex/Assets/PRODEF/Safe/SmallSafeOpening2.mp3
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixerDone/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/VanBody/UVan2Tex.mat
+- Assets/Nylex/Assets/PRODEF/Escape/ElevatorDoorAnimation/FullyAnimatedElevatorDoor(1).fbx
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P3/Nav.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4/Clip.prefab
+- Assets/Nylex/Questlines/Chariot/General/Warehouse/LargeChemicalVat/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Emissive.mat
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateClosed/Clip.prefab
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Nav.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_6/Christmas_Music_Mesh_6.ogg
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/GlassDoor5.fbx
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_5/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBRChemicalBox/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Gold/Resource_Clip.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn5/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/Barricade.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry4/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader1/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Bracelets/UCJeweller Bracelets2Armature.fbx
+- Assets/Nylex/Lootable/GoldBar/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceStructure/Steel.png
+- Assets/Nylex/Objects/Infamy/AudioModules/Music/VelvetRoomMainSong/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/Elevator/UElevated(2).fbx
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJewellerNecklaceHolding(2x1)(2).fbx
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/DiamondStacks/UCJewellerDiamondStackSmall(3).fbx
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1.1/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixerOpen/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReaderAnim/Close.anim
+- Assets/Nylex/PRODEF/Computers/ComputerTrue.1/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Ores/SilverOre/Item.prefab
+- Assets/Nylex/Questlines/Strength/Quest 4/LogToPlankSingle/Object.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/RewireBox1.2Anims/Close.anim
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Copper/Resource_Clip.prefab
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_LeaveBlocker/Object.prefab
+- Assets/Nylex/HeistNonSpecific/Debriefing/HeistSuccessfulSong/yt5s.com-PAYDAY 2
+  Soundtrack (Beta) - Heist Successful-(128kbps).ogg
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/CopperNode.mat
+- Assets/Nylex/Assets/PRODEF/VaultDoor/VaultDoorSound.mp3
+- Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/Close.anim
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Anims/Open.anim
+- Assets/Nylex/PRODEF/Keycards/Keycard2/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3/Clip.prefab
+- Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Placed/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Safe/SafeTitDoor1 (3).obj
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/LargeDiamond/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/ComputerTrue/UPCTex3.png
+- Assets/Nylex/Effects/BloomeryOutputSteel/Humour.anim
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2.1/Object.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateBlueprint/Object.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/1.1 Anims/Open.anim
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/StartTicket/Item.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.1/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/Gate.mat
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BlastFurnaceStructure/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Necklaces/UCJewellerNecklace.2
+  (3).fbx
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Ores/GoldOre/Item.prefab
+- Assets/Nylex/Assets/Objects/Subway/MainLayout/SubwaySystem.fbx
+- Assets/Nylex/PRODEF/Etc/StartTicket/Animations.prefab
+- Assets/Nylex/Objects/GGoldRingObject/SmallGoldRing1.fbx
+- Assets/Nylex/JailSystem/Objects/Teleporters/Teleporter1/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 6/SaplingBlueprint/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Carbon/Stump_Clip.prefab
+- Assets/Nylex/VehicleShop/Items/AmbulanceRAllow/Item.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1.1/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/LargeDiamondBase/Object.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P2/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/ChemistryStation/UCDrugTex1.png
+- Assets/Nylex/Meltdown/Effects/Notification/yt5s.com-PAYDAY 2 Alarm Sound Effect-(128kbps).ogg
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_3/Nav.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P5/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/JewelryStoreBagWatches(2).mat
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateOpen/Object.prefab
+- Assets/Nylex/PRODEF/Etc/SafetyDepositBox/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/SmallDiamondStack/Nav.prefab
+- Assets/Nylex/PRODEF/Escape/VanDoor/Object.prefab
+- Assets/Nylex/PRODEF/VaultDoor/Close.anim
+- Assets/Nylex/PRODEF/Etc/NonVaultKillZone/Clip.prefab
+- Assets/Nylex/JewelryStore/Reinforced/RGlassDoor1/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Safe/Materials/UTexSafe1.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 8/UCMinerJackHammerCrate (1).fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Copper.mat
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeChemicalBox/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/Zolitesting/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Silver/Stump.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateOpen/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/Necklaces(4x1)/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Grate.mat
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.1/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 10/UCLumberHelm2item (6).fbx
+- Assets/Nylex/PRODEF/Keycards/KeycardReaderOBJ/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixer/Armature.controller
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Boxes/Crate2.png
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/GrateSound2.mp3
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn3/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Broken/UCJeweller Necklace(2x1)Broken(3).fbx
+- Assets/Nylex/PRODEF/Keycards/KeycardReader1.1/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantBarricadeDisplay/Barricade.prefab
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SafeDoor2/Object.prefab
+- Assets/Nylex/JailSystem/Objects/NPCNotepadOutfit/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/EscapeMarker2 (1).mat
+- Assets/Nylex/Assets/Questlines/Strength/Quest 10/UCLumberHelmTex3.mat
+- Assets/Nylex/Assets/PRODEF/Police/UCPoliceBoardTex (3).png
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/LargeDiamondStack/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBox/UCJewellerRingBoxAlone(2).fbx
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Barricade.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/ULootBagTex3-2.mat
+- Assets/Nylex/Assets/Questlines/Strength/Quest 8/ChianSaw.mat
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/GlassDoorBase 1.mat
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardInsert.mp3
+- Assets/Nylex/PRODEF/Escape/VanBody/Object.prefab
+- Assets/Nylex/Assets/Objects/Subway/MainLayout/Subway.mat
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/PoliceBlocker/PoliceBlocker.mat
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/UVaultKCardReader3Tex.mat
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.5/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Rings/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/ForwardGlass/Nav.prefab
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Clip.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P5/Nav.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/ABeeZee-Regular.ttf
+- Assets/Nylex/Questlines/Strength/Quest 6/SaplingBlueprint/Nav.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry4/Nav.prefab
+- Assets/Nylex/Assets/Objects/HiddenBookshelf/HiddenBookshelfShelf.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceOutput/BlastFurnaceOutput.fbx
+- Assets/Nylex/Questlines/Strength/General/StrengthMusicMesh/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Chains/Object.prefab
+- Assets/Nylex/Assets/JailSystem/Notepad/Notepad4.png
+- Assets/Nylex/GOBank/Effects/Notification/yt5s.com-_ Payday 2 _ Bank Heist Alarm
+  Sound _-(128kbps).ogg
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/PoliceBlocker/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Planks/UCLUmberPlankTex2.png
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Anims/Close.anim
+- Assets/Nylex/Questlines/Hierophant/General/Ingot/SilverIngot/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/UVaultJailKeyBox1.fbx
+- Assets/Nylex/Assets/Lootable/Anim/Close.anim
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBox/UCJeweller RingAloneArmature(2).fbx
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1.1/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.31/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Chains/UCJewellerChainsArmature(2).fbx
+- Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/UVaultJailDoor1.fbx
+- Assets/Nylex/PRODEF/Police/DoorExit/Object.prefab
+- Assets/Nylex/HeistNonSpecific/WorldMapNotification/Nav.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBox2.2/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/BronzeIngot.fbx
+- Assets/Nylex/JewelryStore/Effects/Notification/NewerImages/JEWELRYStore.png
+- Assets/Nylex/PRODEF/Police/PoliceBoard/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/EscapeMarkerPlane.fbx
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1.1/Object.prefab
+- Assets/Nylex/Assets/Lootable/GoldStackBag/Untitled - 2022-06-23T190418.200.png
+- Assets/Nylex/PRODEF/Etc/ThermalPCase/Clip.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_8/Object.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Notepad/UNotepad4.fbx
+- Assets/Nylex/Assets/JailSystem/Button1P5/KeyExported4.obj
+- Assets/Nylex/PRODEF/Etc/SewerGrate1/Object.prefab
+- Assets/Nylex/Objects/MapNonCriminal/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/NecklaceOBJ(2x1)/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/JewelryStoreBagBracelets.mat
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim/Nav.prefab
+- Assets/Nylex/PRODEF/LobbyVaultDoor/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Watches2/UCJeweller Watches2Armature2.fbx
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Watches/UCJewellerWatches(1).fbx
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/UVanDoors2.fbx
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P3/Clip.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P5/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.2/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Drills/Materials/UDrilltex3.mat
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthHelmetSpecial/Animations.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/WallSafeShell/Object.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Diamond12.mat
+- Assets/Nylex/JewelryStore/SafeDrill/SafeDrillStart/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/Keycard3/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/CurvedOBJ/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/SmallStraightBase/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/Keycard2/Nav.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn4/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/GlassDoorAnims/Close.anim
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_Leave/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/PRODEFSign/UProdefLogoTex.png
+- Assets/Nylex/Vehicles/TestShipment/Siren.ogg
+- Assets/Nylex/Questlines/Chariot/General/Warehouse/ChemistryStation/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/StraightBase/Object.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBox1.1/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/WatchBox/UCJewellerWatchBoxBArmature2.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceStructure/UCMinerBlastFurnace
+  (3).fbx
+- Assets/Nylex/Assets/Lootable/GoldStackBag/Material.001.mat
+- Assets/Nylex/Questlines/Chariot/General/Warehouse/ChemistryStation/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/ForwardGlass/Object.prefab
+- Assets/Nylex/Assets/PoliceRespawn/Model_0 #89045.obj
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start/Object.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P4/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateBlueprint/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/Necklaces(2x1)/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReaderAnim/Open.anim
+- Assets/Nylex/Assets/PRODEF/VaultDoor/Fuckingworkingarmafuck (5).fbx
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/ChemistryStation/Chemical.mat
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3/Clip.prefab
+- Assets/Nylex/JewelryStore/Reinforced/RGlassDoor1.1/Nav.prefab
+- Assets/Nylex/PRODEF/RewireBox/GlassDoor/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.2/Object.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerFalse.1/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/Open.anim
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/UCJewellerSmallForwardGlassOBJ.fbx
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/UKeyCardtex2.png
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.1/Nav.prefab
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateClosed/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Warehouse/ChemistryStation/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/Canvas.controller
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/UCJelTex.png
+- Assets/Nylex/Questlines/Hierophant/General/Ingot/GoldIngot/Item.prefab
+- Assets/Nylex/Objects/GoldRingObject/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/10Ingots/10SilverIngots/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/UVaultLobbyTex (2).mat
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Gold/Stump_Clip.prefab
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start/Materials/Texture.mat
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/RedBag.mat
+- Assets/Nylex/Effects/EpicMexicoEffect/Humour.anim
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.1/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/GlassDoorAnims/Open.anim
+- Assets/Nylex/Assets/PRODEF/Escape/Elevator/Materials/Texture.mat
+- Assets/Nylex/Assets/Lootable/GoldStackBag/ULootBagTex3.jpg
+- Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/UCDrugConcreteMixerAnimationOBJ(2).fbx
+- Assets/Nylex/Assets/Questlines/Strength/Quest 10/UCLumberHelmTex3.png
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Chains/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Iron/Resource_Clip.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 10/UCLumberHelm2 (3).fbx
+- Assets/Nylex/Assets/PRODEF/Computers/ComputerTrue/Materials/UPCTex3.mat
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1/Hinge.mp3
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/Keycard1/Object.prefab
+- Assets/Nylex/Effects/ModelEffectTest/Effect.prefab
+- Assets/Nylex/PRODEF/Etc/SewerGrate2.1/Clip.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/Effect.prefab
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1.1/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/Keycard1/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/PRODEFSign/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoor2/Material.028.mat
+- Assets/Nylex/Assets/PRODEF/Escape/VanBody/UVanBody1.fbx
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/UVaultDoorLobby2.fbx
+- Assets/Nylex/Items/MailboxPackage/Materials/Pants.mat
+- Assets/Nylex/PRODEF/Escape/Elevator/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2/Anims/Close.anim
+- Assets/Nylex/Questlines/Strength/Quest 6/Sapling/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/UCDrugConcreteMixerDoneOBJ(4).fbx
+- Assets/Nylex/VehicleShop/Items/AmbulanceRAllow/Ambulance-R-Allow.png
+- Assets/Nylex/JewelryStore/Effects/Notification/NewImages/Meltdown_Upscale.png
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4.1/Nav.prefab
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/RingsBag/Animations.prefab
+- Assets/Nylex/Objects/Infamy/AudioModules/Music/VelvetRoomMainSong/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantBarricadeDisplay/Animations.prefab
+- Assets/Nylex/PRODEF/Keycards/Keycard2/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Vault/GoldStack/GoldBarStack2.fbx
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/LargeChemicalVat/UCDrugTex1.png
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateClosed/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Vault/GoldStack/GoldBarTex.png
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Diamond13.mat
+- Assets/Nylex/Assets/PRODEF/Etc/ThermalPCase/UThermalPasteCase (2).fbx
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryOutput/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/PRODEFKeycard1.fbx
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Carbon/Resource_Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/CornerBase/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBoxSimple/Silver.mat
+- Assets/Nylex/PRODEF/LobbyVaultDoor/Clip.prefab
+- Assets/Nylex/JewelryStore/Reinforced/RGlassDoor1.1/Object.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P1/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/SmallForwardOBJ/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/Keycard1/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.4/Nav.prefab
+- Assets/Nylex/Questlines/Strength/Quest 4/SawBlade/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryOutput/BloomeryOutputOBJ1.fbx
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/Effect.prefab
+- Assets/Nylex/Assets/Lootable/GoldStackBag/Animation.fbx
+- Assets/Nylex/JewelryStore/SafeDrill/SafeDrillPlace/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/ElevatorDoorAnimation/Open.anim
+- Assets/Nylex/PRODEF/Keycards/KeycardReader1.1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Drills/DrillPlace.mat
+- Assets/Nylex/VehicleShop/Items/ChargerBlack/Charger-Black-1.png
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_6/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/SewerGrate1.1/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/ForwardOBJ/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Police/Materials/UCPoliceBoardTex (2).mat
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Frame/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/NecklaceHolding.mat
+- Assets/Nylex/PRODEF/Etc/ThermalP/Nav.prefab
+- Assets/Nylex/Items/MailboxPackage/Diamond.mat
+- Assets/Nylex/JewelryStore/DisplayCases/Base/Necklaces(4x1)/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 8/ChianSaw.png
+- Assets/Nylex/PRODEF/Etc/PRODEFLogo/Clip.prefab
+- Assets/Nylex/PRODEF/RewireBox/GlassDoor/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/Necklaces(2x1)/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/USaplingTex 1.png
+- Assets/Nylex/PRODEF/Etc/SewerGrate2/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Iron.mat
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SmallSafeDoor1/SmallSafeDoorReg5.fbx
+- Assets/Nylex/PRODEF/Police/DoorExit/Clip.prefab
+- Assets/Nylex/PRODEF/Escape/VanDoor/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 10/Glass.mat
+- Assets/Nylex/PRODEF/Keycards/KeycardReader2.1/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/UCMiningCarbonNode (1).fbx
+- Assets/Nylex/Testing/Sniper/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/StartTicket/ProdefTicket1-2Tex.png
+- Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/10SilverIngot1.fbx
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1/Clip.prefab
+- Assets/Nylex/PRODEF/Police/PoliceBoard/Object.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_10/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/SewerGrate2.1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/Elevator/Texture.mat
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoor2/Open.anim
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/BerryChem/Item.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/NewerImages/Meltdown.png
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/HeistBlocker/Nav.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3.1/Nav.prefab
+- Assets/Nylex/Effects/BloomeryOutputSteel/BloomeryOutput.anim
+- Assets/Nylex/Questlines/Strength/Quest 4/SawBlade/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox(Simple)/Nav.prefab
+- Assets/Nylex/Assets/Objects/HiddenBookshelf/Open.anim
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Copper.mat
+- Assets/Nylex/PRODEF/Etc/ThermalPCase/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/CurvedGlass/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader2/Clip.prefab
+- Assets/Nylex/Lootable/GoldBarItem/Animations.prefab
+- Assets/Nylex/Objects/GGoldRingObject/Nav.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4/Nav.prefab
+- Assets/Nylex/JailSystem/Objects/ExitSigns/ExitSignProp/ExitSign.fbx
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/RingsBag/Item.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/CornerBase/Object.prefab
+- Assets/Nylex/PRODEF/Escape/EscapeMarker/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/UCDrugConcreteMixerStandOBJ.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Gold.mat
+- Assets/Nylex/VehicleShop/Items/ChargerBlack/image-removebg-preview (36).mat
+- Assets/Nylex/PRODEF/Keycards/Keycard3/Object.prefab
+- Assets/Nylex/Objects/Infamy/AudioModules/Music/VelvetRoomMainSong/yt5s.com - Persona
+  3 OST Velvet Room (128 kbps).mp3
+- Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/UVaultJailDoor3.fbx
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/UVaultJailKeyBoxDoor2.fbx
+- Assets/Nylex/Objects/Subway/MainLayout/Nav.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/ElevatorDoorAnimation4.fbx
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_EscapeWall/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/Anim.anim
+- Assets/Nylex/Assets/PRODEF/Escape/ElevatorDoorAnimation/Close.anim
+- Assets/Nylex/PRODEF/Effects/Notification/yt5s (mp3cut.net).mp3
+- Assets/Nylex/PRODEF/Safes/SafeShells/SafeShell/Clip.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry2/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/StraightBase/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/LargeDiamondStack/Nav.prefab
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/UBars 8.fbx
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_Leave/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 8/UCLumberCrateSaws.fbx
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start 1/Object.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerTrue.1/Nav.prefab
+- Assets/Nylex/PRODEF/Escape/VanBody/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/UPCTex.png
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceInput/BloomeryInput.fbx
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Diamond/Resource.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/SafetyDepositBox/UVaultBigTex (1).mat
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Watches2/Nav.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/WallSafeShell/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/WatchBox/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/FirstEntry/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChargerBlack/Item.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Necklaces/UCJewellerNecklace.4
+  (3).fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/GoldNode.mat
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixerStand/Object.prefab
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/UVaultLobbyTex.png
+- Assets/Nylex/Effects/DrillSoundEffect/DrillRepeatingSoundLoud.ogg
+- Assets/Nylex/Assets/JewelryStore/SafeDoor/JewelrySafeDoor.fbx
+- Assets/Nylex/JailSystem/Objects/NPCNotepadOutfit/Character_Mesh_1P_Override_0.prefab
+- Assets/Nylex/Assets/IntroLoop.ogg
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/FirstEntry/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/UCJewellerNecklaceGlassOBJ(2x1)
+  2.fbx
+- Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Blueprint/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry1/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1.1/Nav.prefab
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start 1/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/JailKeyBoxKeys/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader2.1/Clip.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry5/Object.prefab
+- Assets/Nylex/PRODEF/Etc/VaultKillZone/Object.prefab
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Open.anim
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Watches/Nav.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim/Clip.prefab
+- Assets/Nylex/Assets/JailSystem/ExitSignsProp/download (6).png
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1/Anims/Open.anim
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_1/Christmas_Music_Mesh_1.ogg
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/UFinger2.fbx
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Item.prefab
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_Leave/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Diamond/Resource_Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Diamond14.mat
+- Assets/Nylex/Items/MailboxPackage/Materials/Albedo.mat
+- Assets/Nylex/PRODEF/RewireBox/RewireBox1.2/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Necklaces/UCJewellerNecklace.5
+  (3).fbx
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Watches/Object.prefab
+- Assets/Nylex/Assets/JailSystem/Button1P5/12.mat
+- Assets/Nylex/Assets/Questlines/Strength/Quest 3/ULumberLogTex.png
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantHelmetSpecial/Animations.prefab
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1.1/Clip.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/SafeShellT/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.2/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Keypad3.2.mp3
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox/Object.prefab
+- Assets/Nylex/Objects/Infamy/AudioModules/Music/VelvetRoomMainSong/Music_Mesh_1.ogg
+- Assets/Nylex/JewelryStore/Effects/Notification/NewerImages/GOBank.png
+- Assets/Nylex/Assets/PRODEF/Escape/VanBody/UVan2Tex.png
+- Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/Wood.mat
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/Watches(1)Bag/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/Materials/UKCardReaderTex3.mat
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1/Animations.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Ores/Coal/Item.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJelcounterTex.mat
+- Assets/Nylex/JailSystem/Objects/Teleporters/Teleporter1/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/JailKeyBoxDoor/Object.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_1/Object.prefab
+- Assets/Nylex/Lootable/GoldStacks/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 8/UCLumberChiansawCrateWoodTex2.mat
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Silver/Resource_Clip.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 10/UCMinerHelm2.fbx
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.3/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/USaplingTex 1.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceStructure/ULODz1.fbx
+- Assets/Nylex/PRODEF/Computers/ComputerFalse/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/UCLumberMillTex3.png
+- Assets/Nylex/Assets/JailSystem/Notepad/UNotepad4.fbx
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Necklaces/UCJewellerNecklace.1
+  (2).fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Carbon.mat
+- Assets/Nylex/Assets/PRODEF/Safe/USafeTit2.png
+- Assets/Nylex/Questlines/Strength/General/StrengthMusicMesh/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader1/Clip.prefab
+- Assets/Nylex/PRODEF/LobbyVaultDoor 1/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/NecklaceBox/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/JewelryStoreBagChains.png
+- Assets/Nylex/PRODEF/Escape/EscapeMarker/Nav.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/ffonts.net.txt
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryOutput/Clip.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerFalse/Nav.prefab
+- Assets/Nylex/VehicleShop/Items/KamazShop/image-removebg-preview (36).mat
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1/Object.prefab
+- Assets/Nylex/PRODEF/Etc/JailKeyBoxKeys/Nav.prefab
+- Assets/Nylex/Assets/JailSystem/Button1P5/eee.mat
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SafeDoor2/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBoxSimple/UCJewellerRingBoxTan(Simple)(1).fbx
+- Assets/Nylex/PRODEF/Etc/JailKeyBox/Object.prefab
+- Assets/Nylex/JewelryStore/SafeDrill/SafeDrillPlace/Object.prefab
+- Assets/Nylex/PRODEF/LobbyVaultDoor 1/Nav.prefab
+- Assets/Nylex/Assets/Lootable/GoldStackBag/ULootBagTex2.png
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthHelmetSpecial/Hat.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/NecklaceOBJ(4x1)/Nav.prefab
+- Assets/Nylex/JewelryStore/SafeDoor/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/UCDrugConcreteMixerStartOBJ(2).fbx
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry3/Nav.prefab
+- Assets/Nylex/Items/MailboxPackage/Materials/Shirt.mat
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/quick_tips.html
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_4/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Safe/WallSafeBody1.fbx
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/UCJewellerForwardGlassOBJ.fbx
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/Close.anim
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_1/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/ULumberLogTex (1).png
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/SmallDiamondStack/Object.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/UCMinerIronIngotTex.mat
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Open.anim
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/PoliceBlocker/Object.prefab
+- Assets/Nylex/JewelryStore/SafeDrill/SafeDrillStart/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/Close.anim
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_4/Object.prefab
+- Assets/Nylex/JewelryStore/Reinforced/RGlassDoor1/Object.prefab
+- Assets/Nylex/Effects/BloomeryOutputSteel/Effect.controller
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/Close.anim
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Close.anim
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/SmallForwardGlass/Object.prefab
+- Assets/Nylex/Testing/OneWayBlockTest/Clip.prefab
+- Assets/Nylex/VehicleShop/Items/AmbulanceRLocked/image-removebg-preview (36).mat
+- Assets/Nylex/JailSystem/Objects/ExitSigns/ExitSignProp/Clip.prefab
+- Assets/Nylex/Questlines/Strength/Quest 6/Sapling/Clip.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBChemicalBox/Clip.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBox2.2/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.1/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry1/Nav.prefab
+- Assets/Nylex/PRODEF/Safes/SafeDoors/SmallSafeDoor1/Object.prefab
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Close.anim
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/UjailVaultDoorTex (1).png
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox(Simple)/Nothing.mat
+- Assets/Nylex/PRODEF/Etc/SewerGrate1/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/SmallStraightBase/Object.prefab
+- Assets/Nylex/Objects/Infamy/AudioModules/Music/VelvetRoomMainSong/Object.prefab
+- Assets/Nylex/Assets/PoliceRespawn/Texture.mat
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/LobbyVaultDoor/Open.anim
+- Assets/Nylex/Assets/Objects/Subway/MainLayout/Subway.png
+- Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/Open.anim
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1.1/Anims/Open.anim
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/UCLumberMillTex3.mat
+- Assets/Nylex/Assets/PRODEF/Police/Materials/UCPoliceBoardTex (4).mat
+- Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/EscapeMarker2 (1).png
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry1/Lock_Box.mat
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Glass.mat
+- Assets/Nylex/Assets/PRODEF/Vault/GoldStack/GoldBarTex.mat
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn1/Nav.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry5/Nav.prefab
+- Assets/Nylex/Questlines/Strength/General/StrengthMusicMesh/The Hardware Store Loud.mp3
+- Assets/Nylex/Assets/PRODEF/Vault/GoldBar/GoldBarSingle1.fbx
+- Assets/Nylex/PRODEF/LobbySystem/Lobby/Teleporter2/Nav.prefab
+- Assets/Nylex/Testing/Sniper/Item.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReaderOBJ/Clip.prefab
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateOpen/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/PRODEFLogo/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/EscapeMarker2.fbx
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeChemicalBox/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/RefinedBerryChem/Animations.prefab
+- Assets/Nylex/Assets/PRODEF/Police/UCPoliceBoardTex (2).mat
+- Assets/Nylex/Assets/PRODEF/Etc/StartTicket/ProdefTicket1-2Tex.mat
+- Assets/Nylex/Assets/PRODEF/Etc/ThermalP/UThermPaste1.fbx
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/JailVaultDoorKeysPickup.mp3
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/WelcomeToMexico.anim
+- Assets/Nylex/JewelryStore/Effects/Notification/NewerImages/PRODEF.png
+- Assets/Nylex/Assets/PRODEF/Police/UPoliceDoorEnter1.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 8/UCMinerJackHammerCrateWoodTex
+  (1).mat
+- Assets/Nylex/PRODEF/RewireBox/RewireBox2.1/Object.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/UCMinerIronIngotTex (1).png
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Broken/UCJewellerForwardBroken(3).fbx
+- Assets/Nylex/PRODEF/Etc/JailKeyBox/Clip.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry5/Clip.prefab
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Start/Texture.png
+- Assets/Nylex/Assets/Lootable/GoldStackBag/ULootBagTex3.mat
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_10/Christmas_Music_Mesh_10.ogg
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/SmallBerryCrate/Item.prefab
+- Assets/Nylex/Testing/OneWayBlockTest/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/SafetyDepositBox/USaftyDepositBox2 (2).fbx
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/SmallRefinedBerryCrate/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/UFingerTex.png
+- Assets/Nylex/Assets/Questlines/Strength/Quest 8/UCLumberCrateClosed.fbx
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJewellerNecklaceHolding(4x1).fbx
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/HeistBlocker/Object.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim1.1/Object.prefab
+- Assets/Nylex/PRODEF/VaultDoor/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Police/PoliceDoorExit.fbx
+- Assets/Nylex/PRODEF/Etc/SewerGrate1/Nav.prefab
+- Assets/Nylex/Objects/GoldRingObject/Nav.prefab
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/BraceletsBag/Animations.prefab
+- Assets/Nylex/PRODEF/Etc/ThermalP/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/JewelryStoreBagRings.png
+- Assets/Nylex/Assets/PRODEF/Computers/ComputerFalse/UPCTex1.mat
+- Assets/Nylex/Assets/PoliceRespawn/Texture.png
+- Assets/Nylex/PRODEF/RewireBox/RewireBox1.2/Object.prefab
+- Assets/Nylex/Effects/ModelEffectTest/Effect.controller
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_LeaveBlocker/Nav.prefab
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/Watches(1)Bag/Animations.prefab
+- Assets/Nylex/JailSystem/Objects/Doors/JailDoor1/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/UCJewellerNecklaceGlassOBJ(4x1)2.fbx
+- Assets/Nylex/Assets/Lootable/GoldStackBag/ULootBag1.fbx
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/CoalOneIn/Clip.prefab
+- Assets/Nylex/PRODEF/Effects/Notification/PRODEFNotif.anim
+- Assets/Nylex/Testing/OneWayBlockTest/PlaneTest.fbx
+- Assets/Nylex/JailSystem/Objects/Buttons/Notepad/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 4/LogToPlankSingle/Clip.prefab
+- Assets/Nylex/PRODEF/RewireBox/GlassDoor1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Drills/DrillStartingSound.mp3
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJewelry-LargeDiamondStand3.fbx
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryOutput/Object.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/ElevatorDoorAnimation3.fbx
+- Assets/Nylex/VehicleShop/Items/KamazShop/Item.prefab
+- Assets/Nylex/VehicleShop/Items/AmbulanceRLocked/Ambulance-R-Locked.png
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Animations.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry2/TeammateEntry.mat
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn5/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/PRODEFSign/UProdefLogoTex.mat
+- Assets/Nylex/Assets/PRODEF/Safe/USafeDoor1.obj
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P2/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/UKCardReaderTex3.png
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Boxes/UCChemicalBoxLarge2.fbx
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/HeistBlocker/HeistBlocker.mat
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/SmallForwardOBJ/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/Open.anim
+- Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/10GoldIngots11.fbx
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryOutput/BloomeryOutputOBJ2.fbx
+- Assets/Nylex/PRODEF/Etc/SewerGrate2/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateOpen/Object.prefab
+- Assets/Nylex/VehicleShop/Items/AmbulanceRAllow/image-removebg-preview (36).mat
+- Assets/Nylex/Lootable/GoldStacksBag/Animations.prefab
+- Assets/Nylex/Testing/EpicBags/BagTest1/Animations.prefab
+- Assets/Nylex/Questlines/Chariot/General/Warehouse/LargeChemicalVat/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Police/UCPoliceBoard (4).fbx
+- Assets/Nylex/HeistNonSpecific/WorldMapNotification/WorldMapNotification.mat
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantHelmetSpecial/Hat.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim1.1/Open.anim
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/UCJelTex.mat
+- Assets/Nylex/JewelryStore/VoiceLineCaller/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry4/Object.prefab
+- Assets/Nylex/Effects/DrillSoundEffect/DrillRepeatingSoundLoud1.ogg
+- Assets/Nylex/Questlines/Hierophant/Quest 10/HierophantBarricadeDisplay/Item.prefab
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Materials/Texture.mat
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/JailVaultDoorBoxOpen2.mp3
+- Assets/Nylex/PRODEF/LobbySystem/Lobby/PoliceEntrance/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/Blueprint 1.mat
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1/Nav.prefab
+- Assets/Nylex/PRODEF/Police/DoorEntrance/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/SafeDoor/Open.anim
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/Texture.mat
+- Assets/Nylex/Lootable/GoldStacksBag/Item.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Gold.mat
+- Assets/Nylex/PRODEF/Etc/Zolitesting/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Broken/UCJeweller SmallForwardBroken(3).fbx
+- Assets/Nylex/Assets/Objects/HiddenBookshelf/HiddenBookshelfBook.fbx
+- Assets/Nylex/Vehicles/TestShipment/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/ThermalPCase/UThermalPasteCasetex.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/RoughDiamond.fbx
+- Assets/Nylex/Objects/Subway/MainLayout/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BlastFurnaceStructure/Object.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/SafeShellT/Object.prefab
+- Assets/Nylex/PRODEF/Effects/Notification/Canvas.controller
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/UCMinerIronIngotTex (1).mat
+- Assets/Nylex/Questlines/Hierophant/General/10Ingots/10CopperIngots/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/UPCBase (1).obj
+- Assets/Nylex/PRODEF/Escape/Elevator/Clip.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2.1/Clip.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/PRODEF.png
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P2/Clip.prefab
+- Assets/Nylex/PRODEF/LobbySystem/Lobby/PoliceEntrance/Clip.prefab
+- Assets/Nylex/PRODEF/Police/DoorExit/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/VaultDoor/Armature.002_ArmatureAction.000.anim
+- Assets/Nylex/PRODEF/LobbySystem/Lobby/Teleporter2/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/ULumberLogTex (1).mat
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.3/Nav.prefab
+- Assets/Nylex/PRODEF/Police/PoliceBoard/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1/Nav.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_9/Christmas_Music_Mesh_9.ogg
+- Assets/Nylex/JewelryStore/Effects/Notification/yt5s.com-Payday 2- Jewelry Alarm-(128kbps).ogg
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/Necklace(4x1)Glass/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Iron/Resource.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_8/Christmas_Music_Mesh_8.ogg
+- Assets/Nylex/Questlines/Hierophant/General/Ingot/IronIngot/Item.prefab
+- Assets/Nylex/JailSystem/Objects/Teleporters/Teleporter1/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/Elevator/Texture.png
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/Disintegration.ttf
+- Assets/Nylex/Questlines/Hierophant/General/Ores/IronOre/Item.prefab
+- Assets/Nylex/JailSystem/Objects/NPCNotepadOutfit/Character_Material_Override.mat
+- Assets/Nylex/Effects/BloomeryOutputSteel/IronIngotEffectAnimation1.fbx
+- Assets/Nylex/Questlines/Hierophant/General/Ingot/SteelIngot/Item.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Diamond/Stump.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/ChemistryStation/Cardboard.mat
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1.1/Anims/Close.anim
+- Assets/Nylex/PRODEF/Safes/SafeShells/SafeShell/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJelcounterTex.png
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/USaplingTex.mat
+- Assets/Nylex/Assets/PRODEF/Safe/SafeDoorAnim/Open.anim
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3.1/Object.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 8/unknown (75).png
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/UCMinerIronIngotTex.png
+- Assets/Nylex/JewelryStore/VoiceLineCaller/Message.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceStructure/Steel.mat
+- Assets/Nylex/Questlines/Hierophant/General/10Ingots/10SteelIngots/Item.prefab
+- Assets/Nylex/HeistNonSpecific/WorldMapNotification/Message.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/IronNode.mat
+- Assets/Nylex/Assets/PRODEF/Safe/SafeDoorAnim/Close.anim
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/UCJewelry-LargeDiamond.fbx
+- Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateBlueprint/Object.prefab
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/Open.anim
+- Assets/Nylex/Effects/VehicleExplosion/Effect.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/JewelryStoreBagChains.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/IronIngot2.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/ScrappysIronWorks/BlastFurnaceStructure/UCLumberBlastFurnaceMesh
+  (5).fbx
+- Assets/Nylex/Effects/Metal/Effect.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/SafeShell/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/JewelryStoreBagWatches(2).png
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Carbon/Stump.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/SafeShellT/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/LobbyVaultDoor1.mp3
+- Assets/Nylex/HeistNonSpecific/Debriefing/HeistSuccessfulSong/Object.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBox1.1/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/NecklaceOBJ(2x1)/Object.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_5/Christmas_Music_Mesh_5.ogg
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox/Nav.prefab
+- Assets/Nylex/Effects/BloomeryOutputSteel/BloomeryOutput.controller
+- Assets/Nylex/PRODEF/Keycards/KeycardReader2.1/Object.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/Meltdown.png
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn1/Clip.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader1/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/SafeDoor/Close.anim
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateBlueprint/Clip.prefab
+- Assets/Nylex/PRODEF/Etc/PRODEFSign/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/ReinforcedGlassDoorArmature1.fbx
+- Assets/Nylex/Objects/Subway/MainLayout/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1/Anims/Close.anim
+- Assets/Nylex/PRODEF/Etc/VaultKillZone/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/Open.anim
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry3/Clip.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/Clip.prefab
+- Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/Watches(2)Bag/Item.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/UPCTex.mat
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/DiamondStacks/UCJewellerDiamondStackLarge(3).fbx
+- Assets/Nylex/VehicleShop/Items/AmbulanceRLocked/Item.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn2/Clip.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/Necklace.4/Object.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReaderOBJ/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Ores/CopperOre/Item.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/ffonts.net.htm
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Silver.png
+- Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/IronIngots.fbx
+- Assets/Nylex/Assets/Questlines/Strength/Quest 3/UCLumberLog2.fbx
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/HiddenBookshelf3.fbx
+- Assets/Nylex/Assets/JailSystem/Button1P5/UKeyBase.obj
+- Assets/Nylex/Items/MailboxPackage/EpicCardboard.fbx
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/Material.mat
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/WatchBox/Nav.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn2/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/ULumberBlueprint.mat
+- Assets/Nylex/Assets/PRODEF/Etc/StartTicket/UProdefTicket2Teammates.obj
+- Assets/Nylex/Assets/PRODEF/VaultDoor/UGlassDoorTex (1).png
+- Assets/Nylex/PRODEF/Etc/TeammateTicket/Item.prefab
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/LobbyVaultDoor/Close.anim
+- Assets/Nylex/PRODEF/RewireBox/RewireBox2.2/Nav.prefab
+- Assets/Nylex/PRODEF/Etc/VaultJailDoor1/Object.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim1.1/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/ReinforcedGlassDoorArmature1.1.fbx
+- Assets/Nylex/PRODEF/Computers/ComputerOff/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateBlueprint/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/SteelIngots.fbx
+- Assets/Nylex/Lootable/GoldStacks/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/UCLumberSawMill1.fbx
+- Assets/Nylex/Assets/PRODEF/Police/Materials/UCPoliceBoardTex (3).mat
+- Assets/Nylex/ArtGallery/Effects/Notification/Effect.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/SmallChemicalCrate/Item.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_7/Nav.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBox1.2/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Gold/Resource.prefab
+- Assets/Nylex/PRODEF/Etc/VaultKillZone/Red.mat
+- Assets/Nylex/Assets/PRODEF/Safe/USmallSafeReg.fbx
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_3/Object.prefab
+- Assets/Nylex/Assets/PRODEF/VaultJailDoors/UVaultJailDoor (3).fbx
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Boxes/Crate2.mat
+- Assets/Nylex/Testing/EpicBags/BagTest1/Backpack.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Rings/UCJewellerRingsArmature.fbx
+- Assets/Nylex/PRODEF/LobbyVaultDoor/Object.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/Model_0.obj
+- Assets/Nylex/Questlines/Strength/Quest 4/LogToPlankStack/Object.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Escape/VanDoor2/Close.anim
+- Assets/Nylex/Assets/PRODEF/Keycards/Keycard Anims/Open(EffectAnim).anim
+- Assets/Nylex/Assets/PRODEF/Keycards/Keycard1.blend
+- Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/GLASS.001.mat
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P4/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BlastFurnaceStructure/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/ThermalP/UThermalPasteTex.png
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeChemicalBox/Nav.prefab
+- Assets/Nylex/JewelryStore/Reinforced/RGlassWall/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/Necklace(2x1)Glass/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/ChemistryStation/UCChemistryStation3.fbx
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Keycards/UKeyCard2tex3.png
+- Assets/Nylex/JailSystem/Objects/Doors/JailDoor1/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/SawBladeSound1.mp3
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.3/Object.prefab
+- Assets/Nylex/PRODEF/Etc/TeammateTicket/Animations.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixer/Effect.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_2/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/Glass.mat
+- Assets/Nylex/HeistNonSpecific/Debriefing/DBF_LeaveBlocker/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/RewireBoxOpen1.mp3
+- Assets/Nylex/Assets/PRODEF/Computers/PRODEFKeyboard.fbx
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Frame/Object.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/Texture.png
+- Assets/Nylex/PRODEF/Etc/JailKeyBox/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/UHackBox (2).fbx
+- Assets/Nylex/Testing/Sniper/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 8/UCMinerJackHammerCrateWoodTex
+  (1).png
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P1/Clip.prefab
+- Assets/Nylex/Testing/Sniper/Use.mp3
+- Assets/Nylex/Assets/JailSystem/Notepad/Notepad4.mat
+- Assets/Nylex/Testing/OneWayBlockTest/E.mat
+- Assets/Nylex/PRODEF/LobbySystem/Lobby/PoliceEntrance/Object.prefab
+- Assets/Nylex/Assets/Lootable/GoldStackBag/BagofGoldFrame.fbx
+- Assets/Nylex/Questlines/Strength/Quest 4/LogToPlankSingle/Nav.prefab
+- Assets/Nylex/Assets/Lootable/GoldStackBag/ULootBagTex2.mat
+- Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Blueprint/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3/Object.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn3/Nav.prefab
+- Assets/Nylex/Assets/JailSystem/JailDoor/Hinge.mp3
+- Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/10BronzeIngots3.fbx
+- Assets/Nylex/PRODEF/Effects/Notification/Effect.prefab
+- Assets/Nylex/PRODEF/Escape/VanDoor/Nav.prefab
+- Assets/Nylex/PRODEF/Police/DoorEntrance/Object.prefab
+- Assets/Nylex/PRODEF/Etc/SewerGrate2/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/Lobby/Teleporter2/Clip.prefab
+- Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Blueprint/Clip.prefab
+- Assets/Nylex/PRODEF/Escape/VanBody/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/LargeChemicalVat/UCDrugTex1.mat
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4.1/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/LargeChemicalVat/UCLargechemicalVat.fbx
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/USucurityBoxTex.mat
+- Assets/Nylex/PRODEF/Etc/SewerGrate1.1/Nav.prefab
+- Assets/Nylex/Lootable/GoldBar/Clip.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.3/Clip.prefab
+- Assets/Nylex/PRODEF/Safes/SafeShells/WallSafeShell/Clip.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_9/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/CoalOneIn/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 6/UCLumberSaplingTrunck (5).fbx
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Grate1.1Anims/Close.anim
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox(Simple)/Object.prefab
+- Assets/Nylex/Vehicles/TestShipment/Vehicle.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerTrue.1/Clip.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/SteelIngot.fbx
+- Assets/Nylex/PRODEF/Etc/JailKeyBoxDoor/Nav.prefab
+- Assets/Nylex/PRODEF/Safes/Drills/Drill1/Drill1Frame/Nav.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnimation/Nav.prefab
+- Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Placed/Object.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/NecklaceBox/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthHelmetSpecial/Item.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4.1/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 6/SaplingBlueprint/Object.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJewellerSmallForwardBase.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Carbon.mat
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/GlassDoorAnim1/Open.anim
+- Assets/Nylex/PRODEF/Etc/ThermalPaste/Item.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/ChemDrug.png
+- Assets/Nylex/Lootable/GoldBar/Object.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn3/Object.prefab
+- Assets/Nylex/JewelryStore/Effects/Notification/flat_750x1000_075_f-removebg-preview
+  - Copy 1.png
+- Assets/Nylex/Questlines/Hierophant/General/Ingot/CopperIngot/Item.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/Quest 8/UCMinerJackHammerCrateClosed
+  (2).fbx
+- Assets/Nylex/Testing/EpicBags/BagTest1/Item.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 8/UCLumberChiansawCrateWoodTex2.png
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Barricade.prefab
+- Assets/Nylex/Effects/EpicMexicoEffect/Effect.prefab
+- Assets/Nylex/Questlines/Chariot/General/Warehouse/LargeChemicalVat/Nav.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/Necklace(2x1)Glass/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryInput/Object.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/ChemistryStation/UCDrugTex1.mat
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2.1/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Gold/Stump.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/WatchBox/UCJewellerWatchBoxWArmature2.fbx
+- Assets/Nylex/Testing/SniperBlock/Clip.prefab
+- Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryInput/Nav.prefab
+- Assets/Nylex/VehicleShop/Items/GTBlack/image-removebg-preview (36).mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/GoldIngot.fbx
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ingot/SilverIngot.fbx
+- Assets/Nylex/Questlines/Strength/Quest 4/LogToPlankStack/Clip.prefab
+- Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/ReinforcedGlassDoorArmature1.1(1).fbx
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn4/Object.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_9/Nav.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBoxOBJ/Clip.prefab
+- Assets/Nylex/Questlines/Strength/General/StrengthMusicMesh/Nav.prefab
+- Assets/Nylex/Testing/MordecaiElevatorDoorTest/Open.anim
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1.1/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Iron/Stump_Clip.prefab
+- Assets/Nylex/JewelryStore/Reinforced/RGlassWall/Object.prefab
+- Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Item.prefab
+- Assets/Nylex/PRODEF/Keycards/KeycardReader3.2/Object.prefab
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnimation/Object.prefab
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Copper/Stump.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/RewireBox1.2Anims/Open.anim
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/FirstEntry/Nav.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/ChemDrugRefined.png
+- Assets/Nylex/Assets/Questlines/Strength/Planks/UCLumberPlank1.fbx
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/KeycardReader3.fbx
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Iron/Stump.prefab
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/Necklace(4x1)Glass/Object.prefab
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/ChemDrugRefined.mat
+- Assets/Nylex/Questlines/Strength/Quest 4/SawMill/Object.prefab
+- Assets/Nylex/Questlines/Chariot/General/Mexico/WelcomeToMexicoText/install-a-new-font.txt
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P3/Object.prefab
+- Assets/Nylex/Assets/PRODEF/Police/UCPoliceBoardTex (4).png
+- Assets/Nylex/Questlines/Hierophant/General/Nodes/Silver/Stump_Clip.prefab
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Silver.mat
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3/Object.prefab
+- Assets/Nylex/Assets/Questlines/Strength/Quest 3/ULumberLogTex.mat
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Bracelets/UCJewellerBracelets.fbx
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReaderFBX1.fbx
+- Assets/Nylex/Assets/PRODEF/Police/UCPoliceBoard (1).fbx
+- Assets/Nylex/HeistNonSpecific/Debriefing/HeistSuccessfulSong/Clip.prefab
+- Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Placed/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/LobbyVaultDoor/UVaultLobbyTex.mat
+- Assets/Nylex/Questlines/Strength/Quest 4/SawMill/Nav.prefab
+- Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P4/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/Glass.mat
+- Assets/Nylex/Assets/PRODEF/Police/PoliceDoorEnter.fbx
+- Assets/Nylex/Testing/OneWayBlockTest/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/PoliceBlocker/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Grate1.1Anims/Open.anim
+- Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3.1.mp3
+- Assets/Nylex/Assets/PRODEF/Police/Materials/zyro-image.mat
+- Assets/Nylex/Questlines/Strength/Quest 4/Plank/Item.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2/Nav.prefab
+- Assets/Nylex/Items/MailboxPackage/Materials/Texture77777.mat
+- Assets/Nylex/Assets/PRODEF/Etc/JailKeyBox/UVaultLobbyTex (2).png
+- Assets/Nylex/Lootable/GoldStacks/Clip.prefab
+- Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/Texture.png
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Iron.png
+- Assets/Nylex/Effects/BloomeryOutputSteel/Effect.prefab
+- Assets/Nylex/Testing/Sniper/Animations.prefab
+- Assets/Nylex/Assets/PRODEF/Computers/ComputerFalse/ComputerFalse.fbx
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/HeistBlocker/Clip.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_7/Christmas_Music_Mesh_7.ogg
+- Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/SmallForwardGlass/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/General/10Ingots/10GoldIngots/Item.prefab
+- Assets/Nylex/VehicleShop/Items/GTBlack/GT-Black-1.png
+- Assets/Nylex/Assets/PRODEF/Safe/Materials/USafeTit2.mat
+- Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/UjailVaultDoorTex.mat
+- Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/ReinforcedGlassWallArmature1.fbx
+- Assets/Nylex/Assets/Questlines/Chariot/General/Drugs/Held/ChemDrug.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Nodes/Diamond.mat
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateClosed/Nav.prefab
+- Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateOpen/Nav.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Held/RefinedBerryChem/Item.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry3/TeammateEntry.mat
+- Assets/Nylex/Assets/PRODEF/Etc/PRODEFSign/UProdefLogo2.obj
+- Assets/Nylex/HeistNonSpecific/Debriefing/HeistSuccessfulSong/Nav.prefab
+- Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2/Anims/Open.anim
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBoxSimple/UCJewellerRingBoxArmature(Simple)(1).fbx
+- Assets/Nylex/Assets/PRODEF/RewireBoxes/Open.anim
+- Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/CurvedOBJ/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/JewelryStoreBagRings.mat
+- Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Copper.png
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim1.1/Close.anim
+- Assets/Nylex/PRODEF/Etc/Zolitesting/Clip.prefab
+- Assets/Nylex/Assets/JailSystem/Notepad/Materials/Notepad_Ewad.mat
+- Assets/Nylex/ArtGallery/Effects/Notification/ArtGalleryAlarmSoundEffect.ogg
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/FirstEntry/mATERIAL.mat
+- Assets/Nylex/JailSystem/Objects/ExitSigns/ExitSignProp/Nav.prefab
+- Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBChemicalBox/Nav.prefab
+- Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Broken/UCJewellerCurvedBroken(3).fbx
+- Assets/Nylex/Questlines/Chariot/General/Mexico/ConcreteMixerOpen/Nav.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerFalse.1/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry2/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/VaultDoor/Fuckingworkingarmafuck_4.fbx
+- Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim1.1/Clip.prefab
+- Assets/Nylex/PRODEF/LobbyVaultDoor 1/Clip.prefab
+- Assets/Nylex/Assets/PRODEF/Safe/SafeBase1.obj
+- Assets/Nylex/PRODEF/Etc/JailKeyBoxKeys/Clip.prefab
+- Assets/Nylex/PRODEF/Computers/ComputerOff/Nav.prefab
+- Assets/Nylex/Items/MailboxPackage/Albedo.png
+- Assets/Nylex/JewelryStore/VoiceLineCaller/Nav.prefab
+- Assets/Nylex/Assets/JailSystem/ExitSignsProp/download (6).mat
+- Assets/Nylex/Assets/Questlines/Strength/Quest 4/Close.anim
+- Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/JewelryStoreBagWatches(1).mat
+- Assets/Nylex/PRODEF/VaultDoor/Open.anim
+- Assets/Nylex/PRODEF/Etc/NonVaultKillZone/Nav.prefab
+- Assets/Nylex/VehicleShop/Items/GTBlack/Item.prefab
+- Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3/Nav.prefab
+- Assets/Nylex/Assets/PRODEF/Etc/PRODEFSign/UProdefLogo1 (1).obj
+- Assets/Nylex/PRODEF/Effects/Notification/PRODEFNotif.controller
+- Assets/Nylex/Assets/Questlines/Strength/Quest 3/Blueprint.mat
+- Assets/Nylex/JailSystem/Objects/ExitSigns/ExitSignProp/Object.prefab
+- Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry3/Object.prefab
+- Assets/Nylex/PRODEF/RewireBox/RewireBox1.1/Clip.prefab
+- Assets/Nylex/Police/PoliceRespawns/PoliceRespawn2/Nav.prefab
+- Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_2/Object.prefab
+Dependencies: []

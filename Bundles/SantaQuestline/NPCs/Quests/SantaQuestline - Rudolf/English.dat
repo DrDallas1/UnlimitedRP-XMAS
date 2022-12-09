@@ -1,0 +1,7 @@
+Name Rudolf the "Red" Nosed Reindeer!
+Description <color=mythical> Santa </color> said that Rudolf is in trouble! He hasn't heard from him in a while, and everyone is worried about him. He was last seen around Ferndale. Find him.
+
+Condition_0 <color=mythical>Rudolf</color> Returned to <color=mythical>Santa</color>: {0}/1
+
+Reward_0 Quest Complete: Rudolf the "Red" Nosed Reindeer!
+Reward_1 Glowing Red Nose.

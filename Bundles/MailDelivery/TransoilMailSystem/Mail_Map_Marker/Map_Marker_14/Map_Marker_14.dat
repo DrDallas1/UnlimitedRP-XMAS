@@ -1,0 +1,12 @@
+GUID 7a48e18c890e493cb8dfb2846cb282a4
+
+Type Medium
+ID 44061
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 14
+Condition_0_Logic Equal
+
+Exclude_From_Master_Bundle

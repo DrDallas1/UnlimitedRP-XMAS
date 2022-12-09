@@ -1,0 +1,18 @@
+GUID a80ede064b704db5b1369903bfb19088
+
+Type Dialogue
+// Welcome
+ID 12024
+
+Messages 1
+Message_0_Pages 1
+
+Responses 2
+
+// I'd like to trade
+
+// Vendor_Completed
+Response_0_Dialogue 0
+
+// Store
+Response_0_Vendor 12025

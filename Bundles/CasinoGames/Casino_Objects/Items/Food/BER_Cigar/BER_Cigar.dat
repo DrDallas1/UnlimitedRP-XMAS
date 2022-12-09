@@ -1,0 +1,17 @@
+GUID 45ff16ead3c747d89069dff47c9a9532
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 62221
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Health 8
+Food 15
+Water -5
+Virus 2
+Energy 50
+
+Exclude_From_Master_Bundle

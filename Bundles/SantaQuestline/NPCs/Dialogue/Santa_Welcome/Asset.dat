@@ -1,0 +1,597 @@
+GUID 42286bce0a5b4275aac907558a868e72
+
+Type Dialogue
+// Welcome
+ID 12026
+
+Messages 2
+Message_0_Pages 2
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_ID 12112
+Message_0_Condition_0_Value 0
+Message_0_Condition_0_Allow_Unset
+Message_0_Rewards 2
+Message_0_Reward_0_Type Flag_Short_Random
+Message_0_Reward_0_ID 44000
+Message_0_Reward_0_Min_Value 1
+Message_0_Reward_0_Max_Value 24
+Message_0_Reward_0_Modification Assign
+Message_0_Reward_1_Type Flag_Short
+Message_0_Reward_1_ID 12112
+Message_0_Reward_1_Value 1
+Message_0_Reward_1_Modification Assign
+Message_1_Pages 1
+Message_1_Conditions 1
+Message_1_Condition_0_Type Flag_Short
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_ID 12112
+Message_1_Condition_0_Value 1
+
+Responses 22
+
+// I'd like to trade
+
+
+
+// Vendor_Completed
+Response_0_Dialogue 12113
+Response_0_Vendor 12098
+
+//-------------------------------------------------
+// Response 1
+Response_1_Dialogue 12099
+Response_1_Conditions 3
+
+// Checks if you have the quest active.
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 12094
+Response_1_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_1_Condition_1_Type Flag_Short
+Response_1_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_1_Condition_1_ID 12096
+Response_1_Condition_1_Value 1
+
+// Checks to make sure you have not already claimed this prize.
+Response_1_Condition_2_Type Flag_Short
+Response_1_Condition_2_Logic Equal
+Response_1_Condition_2_ID 12097
+Response_1_Condition_2_Value 0
+
+// Says you have taken the "first" reward.
+Response_1_Rewards 2
+Response_1_Reward_0_Type Flag_Short
+Response_1_Reward_0_ID 12097
+Response_1_Reward_0_Value 1
+Response_1_Reward_0_Modification Assign
+Response_1_Reward_1_Type Item
+Response_1_Reward_1_ID 20511
+Response_1_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 2
+Response_2_Dialogue 12099
+Response_2_Conditions 3 
+
+// Checks if you have the quest active.
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 12094
+Response_2_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_2_Condition_1_Type Flag_Short
+Response_2_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_2_Condition_1_ID 12096
+Response_2_Condition_1_Value 2
+
+// Checks to make sure you have not already claimed this prize.
+Response_2_Condition_2_Type Flag_Short
+Response_2_Condition_2_Logic Equal
+Response_2_Condition_2_ID 12097
+Response_2_Condition_2_Value 1
+
+// Says you have taken the "Second" reward.
+Response_2_Rewards 2
+Response_2_Reward_0_Type Flag_Short
+Response_2_Reward_0_ID 12097
+Response_2_Reward_0_Value 2
+Response_2_Reward_0_Modification Assign
+Response_2_Reward_1_Type Item
+Response_2_Reward_1_ID 20511
+Response_2_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 3
+Response_3_Dialogue 12099
+Response_3_Conditions 3 
+
+// Checks if you have the quest active.
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 12094
+Response_3_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_3_Condition_1_Type Flag_Short
+Response_3_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_3_Condition_1_ID 12096
+Response_3_Condition_1_Value 3
+
+// Checks to make sure you have not already claimed this prize.
+Response_3_Condition_2_Type Flag_Short
+Response_3_Condition_2_Logic Equal
+Response_3_Condition_2_ID 12097
+Response_3_Condition_2_Value 2
+
+// Says you have taken the "Third" reward.
+Response_3_Rewards 2
+Response_3_Reward_0_Type Flag_Short
+Response_3_Reward_0_ID 12097
+Response_3_Reward_0_Value 3
+Response_3_Reward_0_Modification Assign
+Response_3_Reward_1_Type Item
+Response_3_Reward_1_ID 20511
+Response_3_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 4
+Response_4_Dialogue 12099
+Response_4_Conditions 3 
+
+// Checks if you have the quest active.
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 12000
+Response_4_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_4_Condition_1_Type Flag_Short
+Response_4_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_4_Condition_1_ID 12096
+Response_4_Condition_1_Value 4
+
+// Checks to make sure you have not already claimed this prize.
+Response_4_Condition_2_Type Flag_Short
+Response_4_Condition_2_Logic Equal
+Response_4_Condition_2_ID 12097
+Response_4_Condition_2_Value 3
+
+// Says you have taken the "Fourth" reward.
+Response_4_Rewards 2
+Response_4_Reward_0_Type Flag_Short
+Response_4_Reward_0_ID 12097
+Response_4_Reward_0_Value 4
+Response_4_Reward_0_Modification Assign
+Response_4_Reward_1_Type Item
+Response_4_Reward_1_ID 20511
+Response_4_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 5
+Response_5_Dialogue 12099
+Response_5_Conditions 3 
+
+// Checks if you have the quest active.
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_ID 12094
+Response_5_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_5_Condition_1_Type Flag_Short
+Response_5_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_5_Condition_1_ID 12096
+Response_5_Condition_1_Value 5
+
+// Checks to make sure you have not already claimed this prize.
+Response_5_Condition_2_Type Flag_Short
+Response_5_Condition_2_Logic Equal
+Response_5_Condition_2_ID 12097
+Response_5_Condition_2_Value 3
+
+// Says you have taken the "Fifth" reward.
+Response_5_Rewards 2
+Response_5_Reward_0_Type Flag_Short
+Response_5_Reward_0_ID 12097
+Response_5_Reward_0_Value 5
+Response_5_Reward_0_Modification Assign
+Response_5_Reward_1_Type Item
+Response_5_Reward_1_ID 20511
+Response_5_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 6
+Response_6_Dialogue 12099
+Response_6_Conditions 3 
+
+// Checks if you have the quest active.
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_ID 12094
+Response_6_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_6_Condition_1_Type Flag_Short
+Response_6_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_6_Condition_1_ID 12096
+Response_6_Condition_1_Value 8
+
+// Checks to make sure you have not already claimed this prize.
+Response_6_Condition_2_Type Flag_Short
+Response_6_Condition_2_Logic Equal
+Response_6_Condition_2_ID 12097
+Response_6_Condition_2_Value 5
+
+// Says you have taken the "Sixth" reward.
+Response_6_Rewards 2
+Response_6_Reward_0_Type Flag_Short
+Response_6_Reward_0_ID 12097
+Response_6_Reward_0_Value 8
+Response_6_Reward_0_Modification Assign
+Response_6_Reward_1_Type Item
+Response_6_Reward_1_ID 20511
+Response_6_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 7
+Response_7_Dialogue 12099
+Response_7_Conditions 3 
+
+// Checks if you have the quest active.
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_ID 12094
+Response_7_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_7_Condition_1_Type Flag_Short
+Response_7_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_7_Condition_1_ID 12096
+Response_7_Condition_1_Value 10
+
+// Checks to make sure you have not already claimed this prize.
+Response_7_Condition_2_Type Flag_Short
+Response_7_Condition_2_Logic Equal
+Response_7_Condition_2_ID 12097
+Response_7_Condition_2_Value 8
+
+// Says you have taken the "Seventh" reward.
+Response_7_Rewards 2
+Response_7_Reward_0_Type Flag_Short
+Response_7_Reward_0_ID 12097
+Response_7_Reward_0_Value 10
+Response_7_Reward_0_Modification Assign
+Response_7_Reward_1_Type Item
+Response_7_Reward_1_ID 20511
+Response_7_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 8
+Response_8_Dialogue 12099
+Response_8_Conditions 3 
+
+// Checks if you have the quest active.
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_ID 12094
+Response_8_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_8_Condition_1_Type Flag_Short
+Response_8_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_8_Condition_1_ID 12096
+Response_8_Condition_1_Value 15
+
+// Checks to make sure you have not already claimed this prize.
+Response_8_Condition_2_Type Flag_Short
+Response_8_Condition_2_Logic Equal
+Response_8_Condition_2_ID 12097
+Response_8_Condition_2_Value 10
+
+// Says you have taken the "Eighth" reward.
+Response_8_Rewards 2
+Response_8_Reward_0_Type Flag_Short
+Response_8_Reward_0_ID 12097
+Response_8_Reward_0_Value 15
+Response_8_Reward_0_Modification Assign
+Response_8_Reward_1_Type Item
+Response_8_Reward_1_ID 20511
+Response_8_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 9
+Response_9_Dialogue 12099
+Response_9_Conditions 3 
+
+// Checks if you have the quest active.
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_ID 12094
+Response_9_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_9_Condition_1_Type Flag_Short
+Response_9_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_9_Condition_1_ID 12096
+Response_9_Condition_1_Value 20
+
+// Checks to make sure you have not already claimed this prize.
+Response_9_Condition_2_Type Flag_Short
+Response_9_Condition_2_Logic Equal
+Response_9_Condition_2_ID 12097
+Response_9_Condition_2_Value 15
+
+// Says you have taken the "Ninth" reward.
+Response_9_Rewards 2
+Response_9_Reward_0_Type Flag_Short
+Response_9_Reward_0_ID 12097
+Response_9_Reward_0_Value 20
+Response_9_Reward_0_Modification Assign
+Response_9_Reward_1_Type Item
+Response_9_Reward_1_ID 20511
+Response_9_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 10
+Response_10_Dialogue 12099
+Response_10_Conditions 3 
+
+// Checks if you have the quest active.
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_ID 12094
+Response_10_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_10_Condition_1_Type Flag_Short
+Response_10_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_10_Condition_1_ID 12096
+Response_10_Condition_1_Value 25
+
+// Checks to make sure you have not already claimed this prize.
+Response_10_Condition_2_Type Flag_Short
+Response_10_Condition_2_Logic Equal
+Response_10_Condition_2_ID 12097
+Response_10_Condition_2_Value 20
+
+// Says you have taken the "Tenth" reward.
+Response_10_Rewards 2
+Response_10_Reward_0_Type Flag_Short
+Response_10_Reward_0_ID 12097
+Response_10_Reward_0_Value 25
+Response_10_Reward_0_Modification Assign
+Response_10_Reward_1_Type Item
+Response_10_Reward_1_ID 20511
+Response_10_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 11
+Response_11_Dialogue 12099
+Response_11_Conditions 3 
+
+// Checks if you have the quest active.
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_ID 12094
+Response_11_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_11_Condition_1_Type Flag_Short
+Response_11_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_11_Condition_1_ID 12096
+Response_11_Condition_1_Value 26
+
+// Checks to make sure you have not already claimed this prize.
+Response_11_Condition_2_Type Flag_Short
+Response_11_Condition_2_Logic Equal
+Response_11_Condition_2_ID 12097
+Response_11_Condition_2_Value 25
+
+// Says you have taken the "Eleventh" reward.
+Response_11_Rewards 2
+Response_11_Reward_0_Type Flag_Short
+Response_11_Reward_0_ID 12097
+Response_11_Reward_0_Value 26
+Response_11_Reward_0_Modification Assign
+Response_11_Reward_1_Type Item
+Response_11_Reward_1_ID 20511
+Response_11_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 12
+Response_12_Dialogue 12099
+Response_12_Conditions 3 
+
+// Checks if you have the quest active.
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_ID 12094
+Response_12_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_12_Condition_1_Type Flag_Short
+Response_12_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_12_Condition_1_ID 12096
+Response_12_Condition_1_Value 27
+
+// Checks to make sure you have not already claimed this prize.
+Response_12_Condition_2_Type Flag_Short
+Response_12_Condition_2_Logic Equal
+Response_12_Condition_2_ID 12097
+Response_12_Condition_2_Value 26
+
+// Says you have taken the "Twelvth" reward.
+Response_12_Rewards 2
+Response_12_Reward_0_Type Flag_Short
+Response_12_Reward_0_ID 12097
+Response_12_Reward_0_Value 27
+Response_12_Reward_0_Modification Assign
+Response_12_Reward_1_Type Item
+Response_12_Reward_1_ID 20511
+Response_12_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 13
+Response_13_Dialogue 12099
+Response_13_Conditions 3 
+
+// Checks if you have the quest active.
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_ID 12094
+Response_13_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_13_Condition_1_Type Flag_Short
+Response_13_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_13_Condition_1_ID 12096
+Response_13_Condition_1_Value 28
+
+// Checks to make sure you have not already claimed this prize.
+Response_13_Condition_2_Type Flag_Short
+Response_13_Condition_2_Logic Equal
+Response_13_Condition_2_ID 12097
+Response_13_Condition_2_Value 27
+
+// Says you have taken the "Thirteenth" reward.
+Response_13_Rewards 2
+Response_13_Reward_0_Type Flag_Short
+Response_13_Reward_0_ID 12097
+Response_13_Reward_0_Value 28
+Response_13_Reward_0_Modification Assign
+Response_13_Reward_1_Type Item
+Response_13_Reward_1_ID 20511
+Response_13_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 14
+Response_14_Dialogue 12099
+Response_14_Conditions 3 
+
+// Checks if you have the quest active.
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_ID 12094
+Response_14_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_14_Condition_1_Type Flag_Short
+Response_14_Condition_1_Logic Greater_Than_Or_Equal_To
+Response_14_Condition_1_ID 12096
+Response_14_Condition_1_Value 29
+
+// Checks to make sure you have not already claimed this prize.
+Response_14_Condition_2_Type Flag_Short
+Response_14_Condition_2_Logic Equal
+Response_14_Condition_2_ID 12097
+Response_14_Condition_2_Value 28
+
+// Says you have taken the "Fourteenth" reward.
+Response_14_Rewards 2
+Response_14_Reward_0_Type Flag_Short
+Response_14_Reward_0_ID 12097
+Response_14_Reward_0_Value 29
+Response_14_Reward_0_Modification Assign
+Response_14_Reward_1_Type Item
+Response_14_Reward_1_ID 20511
+Response_14_Reward_1_Amount 1
+//-------------------------------------------------
+// Response 15
+Response_15_Dialogue 12099
+Response_15_Conditions 3 
+
+// Checks if you have the quest active.
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_ID 12094
+Response_15_Condition_0_Status Active
+
+// Checks amount of rings.
+Response_15_Condition_1_Type Flag_Short
+Response_15_Condition_1_Logic Equal
+Response_15_Condition_1_ID 12096
+Response_15_Condition_1_Value 30
+
+// Checks to make sure you have not already claimed this prize.
+Response_15_Condition_2_Type Flag_Short
+Response_15_Condition_2_Logic Equal
+Response_15_Condition_2_ID 12097
+Response_15_Condition_2_Value 29
+
+// Says you have taken the "Fifteenth" reward.
+Response_15_Rewards 3
+Response_15_Reward_0_Type Flag_Short
+Response_15_Reward_0_ID 12096
+Response_15_Reward_0_Value 500
+Response_15_Reward_0_Modification Assign
+Response_15_Reward_1_Type Item
+Response_15_Reward_1_ID 20511
+Response_15_Reward_1_Amount 1
+Response_15_Reward_2_Type Flag_Short
+Response_15_Reward_2_ID 12097
+Response_15_Reward_2_Value 30
+Response_15_Reward_2_Modification Assign
+//-------------------------------------------------
+
+// Santa Questline - Rudolf (Complete)
+
+Response_16_Dialogue 12113
+Response_16_Quest 12107
+Response_16_Conditions 1 
+
+// Checks if you have the quest ready to turn in.
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_ID 12107
+Response_16_Condition_0_Status Ready
+Response_16_Condition_0_Reset
+
+//-------------------------------------------------
+
+// Santa Questline - Christmas Treat (Complete)
+
+Response_17_Dialogue 12113
+Response_17_Quest 12109
+Response_17_Conditions 1 
+
+// Checks if you have the quest ready to turn in.
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_ID 12109
+Response_17_Condition_0_Status Ready
+Response_17_Condition_0_Reset
+
+//------------------------------------------------
+
+// Santa Questline - Rings (Complete)
+
+// To turn in the Rings quest, create a new dialogue for Response_15. That will complete the quest.
+
+Response_18_Dialogue 12113
+Response_18_Quest 12094
+Response_18_Conditions 1 
+Response_18_Condition_0_Type Quest
+Response_18_Condition_0_Logic Equal
+Response_18_Condition_0_ID 12094
+Response_18_Condition_0_Status Ready
+Response_18_Condition_0_Reset
+
+//----------------------------------------------
+
+// Santa Questline - A Gingerbread Mansion
+
+Response_19_Dialogue 12113
+Response_19_Quest 12110
+Response_19_Conditions 1 
+Response_19_Condition_0_Type Quest
+Response_19_Condition_0_Logic Equal
+Response_19_Condition_0_ID 12110
+Response_19_Condition_0_Status Ready
+Response_19_Condition_0_Reset
+
+//----------------------------------------------
+
+// Santa Questline - A Gingerbread Mansion
+
+Response_20_Dialogue 12113
+Response_20_Quest 44002
+Response_20_Conditions 1 
+Response_20_Condition_0_Type Quest
+Response_20_Condition_0_Logic Equal
+Response_20_Condition_0_ID 44002
+Response_20_Condition_0_Status Ready
+Response_20_Condition_0_Reset
+
+

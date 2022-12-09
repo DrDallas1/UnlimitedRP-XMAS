@@ -1,0 +1,28 @@
+GUID 27c3ff949cc54f53bbf059ad79d6133d
+
+
+Type Vendor
+ID 50549
+
+Currency 6650ca8f765d4a68bfe54912146da416
+
+Buying 0
+
+Selling 5
+// Gas Can
+Selling_0_ID 57340
+Selling_0_Cost 25
+// Industrial Gas Can
+Selling_1_ID 57341
+Selling_1_Cost 300
+// Note
+Selling_2_ID 1328
+Selling_2_Cost 50
+// Hat
+Selling_3_ID 423
+Selling_3_Cost 5
+// Mail
+Selling_4_ID 6306
+Selling_4_Cost 50
+
+Disable_Sorting

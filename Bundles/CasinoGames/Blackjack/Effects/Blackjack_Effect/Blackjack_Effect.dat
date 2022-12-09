@@ -1,0 +1,14 @@
+GUID 86a6b17ca779455db38623e6d2ee65a2
+
+Type Effect
+ID 62452
+
+Lifetime 20
+
+Exclude_From_Master_Bundle
+Lifetime_Spread 0
+Asset_Bundle_Version 2
+Relevant_Distance 20
+Spawn_Explosion_On_Dedicated_Server
+
+

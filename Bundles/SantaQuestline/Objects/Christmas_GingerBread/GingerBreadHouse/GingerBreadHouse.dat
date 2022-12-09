@@ -1,0 +1,15 @@
+GUID 30f1eb03d94449fb8d3dd996f8500b22
+
+Type Medium
+ID 12832
+
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 12111
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Has_Clip_Prefab false
+
+Exclude_From_Master_Bundle

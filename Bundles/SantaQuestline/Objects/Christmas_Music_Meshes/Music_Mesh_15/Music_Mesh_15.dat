@@ -1,0 +1,16 @@
+GUID f6636f37e5ce42c79d423f28f0d5a39b
+
+Type Medium
+ID 12525
+
+Conditions 2
+Condition_0_Type Time_Of_Day
+Condition_0_Second 67224
+Condition_0_Logic Greater_Than_Or_Equal_To
+Condition_1_Type Time_Of_Day
+Condition_1_Second 69744
+Condition_1_Logic Less_Than_Or_Equal_To
+
+Has_Clip_Prefab false
+
+Exclude_From_Master_Bundle

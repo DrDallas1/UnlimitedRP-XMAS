@@ -1,0 +1,14 @@
+GUID 1973ec6b09434224a4e9cec6150775c7
+
+Type NPC
+ID 12298
+
+Face 1
+Color_Skin #FFD5C3
+Color_Hair #1B110A
+Shirt 7983
+Pants 7971
+Hat 1385
+
+// Welcome
+Dialogue 12024

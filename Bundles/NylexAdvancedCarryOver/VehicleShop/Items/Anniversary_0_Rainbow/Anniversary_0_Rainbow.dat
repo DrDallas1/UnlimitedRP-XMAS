@@ -1,0 +1,15 @@
+GUID ff9b8c08b96f403491cc5f2c0fb383bb
+
+Type Hat
+ID 12069
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Beard
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Hats/Anniversary_0_Rainbow
+
+Pro

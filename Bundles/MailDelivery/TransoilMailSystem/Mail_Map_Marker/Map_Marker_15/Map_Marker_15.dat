@@ -1,0 +1,12 @@
+GUID 69a517225091416293ee928cd5fa01f9
+
+Type Medium
+ID 44064
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 15
+Condition_0_Logic Equal
+
+Exclude_From_Master_Bundle

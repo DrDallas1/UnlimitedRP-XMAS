@@ -1,0 +1,13 @@
+GUID 3eae0f7620244bc58e816ad65446533d
+
+Type Dialogue
+// Welcome
+ID 12022
+
+Messages 1
+Message_0_Pages 6
+
+Responses 1
+
+Response_0_Dialogue 12021
+

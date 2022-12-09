@@ -1,0 +1,27 @@
+Message_0_Page_0 Ho Ho Ho! <br>Have you been naughty or nice?<br><pause><pause><pause><pause><pause><pause>Awfully silent today, aren't you?<pause><pause><pause><pause><pause><pause>
+Message_0_Page_1 Ho Ho Ho! <br>Kid, <name_npc> needs a lot of help this Christmas! Will you help me?
+Message_1_Page_0 Ho Ho Ho! <br>How is everything coming along?
+Message_2_Page_0 Ho Ho Ho! <br>Thank you for finding all my rings!
+
+Response_0 I would love to help.
+Response_1 I have found a ring!
+Response_2 I have found 2 rings!
+Response_3 I have found 3 rings!
+Response_4 I have found 4 rings! (Not real)
+Response_5 I have found 5 rings!
+Response_6 I have found 8 rings!
+Response_7 I have found 10 rings!
+Response_8 I have found 15 rings!
+Response_9 I have found 20 rings!
+Response_10 I have found all 25 rings!
+Response_11 I have found... 26 rings?
+Response_12 I have found 27 rings!
+Response_13 I have found 28 rings!
+Response_14 I have found 29 rings!
+Response_15 I have found 30 rings!
+Response_16 I have found and patched up Rudolf!
+Response_17 I have the Cider and Muffins!
+Response_18 I have found all the rings.
+Response_19 I have baked the Gingerbread Mansion!
+Response_20 I have delivered the Presents!
+Response_21 Goodbye.

@@ -1,0 +1,10 @@
+GUID 7ec97c92c5f84cb4a4e0eea9da1a9fc4
+Type Quest
+ID 10003
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 11058
+Condition_0_Value 0
+Condition_0_Logic Equal
+

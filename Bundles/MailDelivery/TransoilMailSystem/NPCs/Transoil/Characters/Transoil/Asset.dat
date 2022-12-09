@@ -1,0 +1,14 @@
+GUID aa4eca5cb8af4a48bc389a0a7351f2ab
+
+Type NPC
+ID 44003
+
+Shirt 407
+Pants 408
+Hat 423
+
+Face 8
+Color_Skin #FFD5C3
+Color_Hair #1B110A
+
+Dialogue 44004

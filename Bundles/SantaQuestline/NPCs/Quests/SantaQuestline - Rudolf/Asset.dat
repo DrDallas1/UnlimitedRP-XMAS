@@ -1,0 +1,18 @@
+GUID 0ef4cca4a67c4979a9665e6429eb9723
+
+Type Quest
+ID 12107
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 12108
+Condition_0_Value 1
+Condition_0_Logic Equal
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 12063
+Reward_0_Amount 1
+Reward_1_Type Item
+Reward_1_ID 12064
+Reward_1_Amount 1

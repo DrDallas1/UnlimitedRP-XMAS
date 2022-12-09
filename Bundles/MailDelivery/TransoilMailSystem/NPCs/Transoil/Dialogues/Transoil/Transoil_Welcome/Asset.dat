@@ -1,0 +1,75 @@
+GUID 4c8eab182b574b8384dff722f057da68
+
+Type Dialogue
+// Welcome
+ID 44004
+
+Messages 1
+Message_0_Pages 1
+
+Responses 6
+
+// I'd like to trade
+
+// Vendor_Completed
+Response_0_Dialogue 50547
+
+// Store
+Response_0_Vendor 50549
+
+// I would like to deliver packages
+Response_1_Dialogue 44006
+Response_1_Quest 44002
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 44002
+Response_1_Condition_0_Status None
+Response_1_Rewards 2
+Response_1_Reward_0_Type Flag_Short_Random
+Response_1_Reward_0_ID 44000
+Response_1_Reward_0_Min_Value 1
+Response_1_Reward_0_Max_Value 24
+Response_1_Reward_0_Modification Assign
+Response_1_Reward_1_Type Quest
+Response_1_Reward_1_ID 44002
+
+// I would like to deliver packages 2
+Response_2_Dialogue 44006
+Response_2_Quest 44002
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_ID 44002
+Response_2_Condition_0_Status Completed
+Response_2_Rewards 2
+Response_2_Reward_0_Type Flag_Short_Random
+Response_2_Reward_0_ID 44000
+Response_2_Reward_0_Min_Value 1
+Response_2_Reward_0_Max_Value 24
+Response_2_Reward_0_Modification Assign
+Response_2_Reward_1_Type Quest
+Response_2_Reward_1_ID 44002
+
+// Delivered
+Response_3_Dialogue 44005
+Response_3_Quest 44002
+Response_3_Conditions 1
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_ID 44002
+Response_3_Condition_0_Status Ready	
+Response_3_Condition_0_Reset
+Response_3_Rewards 1
+Response_3_Reward_0_Type Flag_Bool
+Response_3_Reward_0_ID 44003
+Response_3_Reward_0_Value False
+Response_3_Reward_0_Logic Equal
+
+// Where do I deliver?
+Response_4_Dialogue 44007
+Response_4_Conditions 1
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_ID 44002
+Response_4_Condition_0_Status Active

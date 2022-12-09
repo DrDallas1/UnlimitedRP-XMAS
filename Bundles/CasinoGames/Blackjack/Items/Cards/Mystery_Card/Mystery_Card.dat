@@ -1,0 +1,27 @@
+GUID 97a3f1055a7a4f53bef78d67b88d443f
+Type Food
+Rarity Common
+Useable Consumeable
+ID 62393
+
+Size_X 1
+Size_Y 1
+Size_Z 0.22
+
+Health 100
+Range 4
+Offset 0.025
+
+Locked
+Invulnerable
+
+Explosion 58
+
+Quest_Rewards 1
+Quest_Reward_0_Type Flag_Short
+Quest_Reward_0_ID 43134
+Quest_Reward_0_Value 1
+Quest_Reward_0_Modification Increment
+Quest_Build 27
+
+Override_Show_Quality 0

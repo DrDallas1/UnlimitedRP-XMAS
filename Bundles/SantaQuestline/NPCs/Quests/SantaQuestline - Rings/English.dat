@@ -1,0 +1,56 @@
+Name 12 Days of Christmas
+Description Your bank account balance. 
+
+Condition_0 <color=yellow>Rings Found</color>: <color=red>{0}</color>
+
+// Rewards-Unlocked
+
+Condition_1 <color=mythical>Copper Ring Unlocked!</color>
+Condition_2 <color=mythical>Reward 2 Unlocked!</color>
+Condition_3 <color=mythical>Reward 3 Unlocked!</color>
+Condition_4 <color=mythical>Reward 5 Unlocked!</color>
+Condition_5 <color=mythical>Gold Ring Unlocked!</color>
+Condition_6 <color=mythical>Christmas Hat Unlocked!</color>
+Condition_7 <color=mythical>Deck of Cards Unlocked!</color>
+Condition_8 <color=mythical>Reward 20 Unlocked!</color>
+Condition_9 <color=mythical>Reward 25 Unlocked!</color>
+Condition_10 <color=mythical>Golden Glowing Ring Unlocked!</color>
+Condition_11 <color=mythical>Refined Berry Chem Bottle Unlocked!</color>
+Condition_12 <color=mythical>PRODEF Keycard Unlocked!</color>
+Condition_13 <color=mythical>A Special Letter Unlocked!</color>
+Condition_14 <color=mythical>A Very Special Reward Unlocked!</color>
+
+//Next-Reward
+
+Condition_15 Next Reward:<color=orange> Copper Ring! </color>
+Condition_16 Next Reward:<color=orange> Reward 2 </color>
+Condition_17 Next Reward:<color=orange> Reward 3 </color>
+Condition_18 Next Reward:<color=orange> Reward 5 </color>
+Condition_19 Next Reward:<color=orange> Reward 5 </color>
+Condition_20 Next Reward:<color=orange> Golden Ring! </color>
+Condition_21 Next Reward:<color=orange> Golden Ring! </color>
+Condition_22 Next Reward:<color=orange> Golden Ring! </color>
+Condition_23 Next Reward:<color=orange> Christmas Hat! </color>
+Condition_24 Next Reward:<color=orange> Christmas Hat! </color>
+Condition_25 Next Reward:<color=orange> Deck of Cards! </color>
+Condition_26 Next Reward:<color=orange> Deck of Cards! </color>
+Condition_27 Next Reward:<color=orange> Deck of Cards! </color>
+Condition_28 Next Reward:<color=orange> Deck of Cards! </color>
+Condition_29 Next Reward:<color=orange> Deck of Cards! </color>
+Condition_30 Next Reward:<color=orange> Reward 20 </color>
+Condition_31 Next Reward:<color=orange> Reward 20 </color>
+Condition_32 Next Reward:<color=orange> Reward 20 </color>
+Condition_33 Next Reward:<color=orange> Reward 20 </color>
+Condition_34 Next Reward:<color=orange> Reward 20 </color>
+Condition_35 Next Reward:<color=orange> Reward 25 </color>
+Condition_36 Next Reward:<color=orange> Reward 25 </color>
+Condition_37 Next Reward:<color=orange> Reward 25 </color>
+Condition_38 Next Reward:<color=orange> Reward 25 </color>
+Condition_39 Next Reward:<color=orange> Reward 25 </color>
+Condition_40 Next Reward:<color=orange> Golden Glowing Ring! </color>
+Condition_41 Next Reward:<color=orange> Refined Berry Chem Bottle! </color>
+Condition_42 Next Reward:<color=orange> PRODEF Keycard! </color>
+Condition_43 Next Reward:<color=orange> A Very Special Letter! </color>
+Condition_44 Next Reward:<color=orange> A Very Special Reward! </color>
+
+Reward_0 Quest Complete: 12 Days of Christmas

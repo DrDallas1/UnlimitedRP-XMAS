@@ -1,0 +1,13 @@
+GUID f90678801be94c72991d1a4dedc6d559
+Type Cloud
+Rarity Common
+Useable Cloud
+ID 12004
+
+Gravity 1.0
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Exclude_From_Master_Bundle

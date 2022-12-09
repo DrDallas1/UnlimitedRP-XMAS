@@ -1,0 +1,120 @@
+GUID 1ce21ca2c2594cbb855efc3178d8c06a
+
+Type Vendor
+ID 12098
+
+
+Buying 0
+
+Selling 7
+// Santa Questline - Golden Rings
+Selling_0_ID 12065
+Selling_0_Cost 5
+Selling_0_Conditions 2
+Selling_0_Condition_0_Type Quest
+Selling_0_Condition_0_Logic Equal
+Selling_0_Condition_0_ID 12094
+Selling_0_Condition_0_Status None
+Selling_0_Condition_1_Type Flag_Short
+Selling_0_Condition_1_ID 12095
+Selling_0_Condition_1_Value 0
+Selling_0_Condition_1_Logic Equal
+Selling_0_Condition_1_Allow_Unset
+Selling_0_Rewards 4
+Selling_0_Reward_0_Type Quest
+Selling_0_Reward_0_ID 12094
+Selling_0_Reward_1_Type Flag_Short
+Selling_0_Reward_1_ID 12095
+Selling_0_Reward_1_Value 1
+Selling_0_Reward_1_Modification Assign
+Selling_0_Reward_2_Type Flag_Short
+Selling_0_Reward_2_ID 12096
+Selling_0_Reward_2_Value 0
+Selling_0_Reward_2_Modification Assign
+Selling_0_Reward_3_Type Flag_Short
+Selling_0_Reward_3_ID 12097
+Selling_0_Reward_3_Value 0
+Selling_0_Reward_3_Modification Assign
+Selling_1_ID 12065
+Selling_1_Cost 0
+Selling_1_Conditions 2
+Selling_1_Condition_0_Type Quest
+Selling_1_Condition_0_Logic Equal
+Selling_1_Condition_0_ID 12094
+Selling_1_Condition_0_Status None
+Selling_1_Condition_1_Type Flag_Short
+Selling_1_Condition_1_ID 12095
+Selling_1_Condition_1_Value 1
+Selling_1_Condition_1_Logic Equal
+Selling_1_Rewards 1
+Selling_1_Reward_0_Type Quest
+Selling_1_Reward_0_ID 12094
+// Santa Questline - Rudolf
+Selling_2_ID 12063
+Selling_2_Cost 0
+Selling_2_Conditions 1
+Selling_2_Condition_0_Type Quest
+Selling_2_Condition_0_Logic Equal
+Selling_2_Condition_0_ID 12107
+Selling_2_Condition_0_Status None
+Selling_2_Rewards 1
+Selling_2_Reward_0_Type Quest
+Selling_2_Reward_0_ID 12107
+// Santa Questline - Christmas Treat
+Selling_3_ID 12066
+Selling_3_Cost 0
+Selling_3_Conditions 1
+Selling_3_Condition_0_Type Quest
+Selling_3_Condition_0_Logic Equal
+Selling_3_Condition_0_ID 12109
+Selling_3_Condition_0_Status None
+Selling_3_Rewards 1
+Selling_3_Reward_0_Type Quest
+Selling_3_Reward_0_ID 12109
+// Santa Questline - Gingerbread Mansion
+Selling_4_ID 12067
+Selling_4_Cost 0
+Selling_4_Conditions 1
+Selling_4_Condition_0_Type Quest
+Selling_4_Condition_0_Logic Equal
+Selling_4_Condition_0_ID 12110
+Selling_4_Condition_0_Status None
+Selling_4_Rewards 2
+Selling_4_Reward_0_Type Quest
+Selling_4_Reward_0_ID 12110
+Selling_4_Reward_1_Type Flag_Short
+Selling_4_Reward_1_ID 12111
+Selling_4_Reward_1_Value 0
+Selling_4_Reward_1_Modification Assign
+
+Selling_5_ID 12068
+Selling_5_Cost 150
+Selling_5_Conditions 1
+Selling_5_Condition_0_Type Quest
+Selling_5_Condition_0_Logic Equal
+Selling_5_Condition_0_ID 44002
+Selling_5_Condition_0_Status None
+Selling_5_Rewards 2
+Selling_5_Reward_0_Type Quest
+Selling_5_Reward_0_ID 44002
+Selling_5_Reward_1_Type Item
+Selling_5_Reward_1_ID 6306
+Selling_5_Reward_1_Amount 3
+
+Selling_6_ID 12068
+Selling_6_Cost 150
+Selling_6_Conditions 1
+Selling_6_Condition_0_Type Quest
+Selling_6_Condition_0_Logic Equal
+Selling_6_Condition_0_ID 44002
+Selling_6_Condition_0_Status Completed
+Selling_6_Rewards 2
+Selling_6_Reward_0_Type Quest
+Selling_6_Reward_0_ID 44002
+Selling_6_Reward_1_Type Item
+Selling_6_Reward_1_ID 6306
+Selling_6_Reward_1_Amount 3
+
+Currency 6650ca8f765d4a68bfe54912146da416
+
+Disable_Sorting

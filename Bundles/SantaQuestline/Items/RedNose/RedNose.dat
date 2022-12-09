@@ -1,0 +1,14 @@
+GUID 8762a6c8080d4177b726108de31dfaad
+
+Type Glasses
+ID 12064
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Hair
+Beard
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Glasses/Reindeer

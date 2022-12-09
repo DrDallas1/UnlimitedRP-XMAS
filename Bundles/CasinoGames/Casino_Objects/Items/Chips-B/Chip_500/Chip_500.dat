@@ -1,0 +1,24 @@
+GUID 3d34e8cef88646268c4030065facdc94
+
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 12060
+
+Size_X 1
+Size_Y 1
+Size_Z 0.1
+
+Health 100
+Range 4
+Offset 0.007
+
+Locked
+Invulnerable
+
+Has_Clip_Prefab false
+
+Bypass_Pickup_Ownership true
+
+Salvage_Duration_Multiplier 0.3

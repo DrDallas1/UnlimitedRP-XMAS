@@ -1,0 +1,9 @@
+Name A Christmas Treat
+Description <color=mythical> Santa </color> wants a good treat for his pals. Get him some Cider and Chocolate Muffins.
+
+Condition_0 <color=#E55451> Cider </color> {0}/5
+Condition_1 <color=#603101> Chocolate Muffins </color> {0}/5
+
+Reward_0 Quest Complete: A Christmas Treat
+Reward_1 A Snowmobile.
+Reward_2 <color=#FFFFFF00>.</color>

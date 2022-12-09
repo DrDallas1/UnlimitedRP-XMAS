@@ -1,0 +1,13 @@
+GUID 47dbb405ef5c41739c43fbe7c639abb4
+
+Type Medium
+ID 44060
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 14
+Condition_0_Logic Not_Equal
+Condition_0_Allow_Unset
+
+Exclude_From_Master_Bundle

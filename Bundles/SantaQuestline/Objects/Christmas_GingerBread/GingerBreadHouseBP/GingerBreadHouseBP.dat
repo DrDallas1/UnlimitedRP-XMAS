@@ -1,0 +1,34 @@
+GUID 144e157270b54ce6b01006850eac1a81
+
+Type Medium
+ID 12831
+
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 12111
+Condition_0_Value 0
+Condition_0_Logic Equal
+
+Interactability Quest
+Interactability_Conditions 3
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 394
+Interactability_Condition_0_Amount 3
+Interactability_Condition_1_Type Item
+Interactability_Condition_1_ID 329
+Interactability_Condition_1_Amount 1
+Interactability_Condition_2_Type Quest
+Interactability_Condition_2_ID 12110
+Interactability_Condition_2_Status Active
+Interactability_Condition_2_Logic Equal
+Interactability_Effect 47103
+Interactability_Rewards 1
+Interactability_Reward_0_Type Flag_Short
+Interactability_Reward_0_ID 12111
+Interactability_Reward_0_Value 1
+Interactability_Reward_0_Modification Assign
+
+Has_Clip_Prefab false
+
+Exclude_From_Master_Bundle

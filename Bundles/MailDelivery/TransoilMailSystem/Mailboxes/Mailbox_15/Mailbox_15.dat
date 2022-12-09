@@ -1,0 +1,13 @@
+GUID 23be2c5b1a034b24bde84b79a00f3056
+
+Type Medium
+ID 12510
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 15
+Condition_0_Logic Not_Equal
+Condition_0_Allow_Unset
+
+Exclude_From_Master_Bundle

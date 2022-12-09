@@ -1,0 +1,13 @@
+GUID 340ec2f32bb44894a67897b99810346d
+
+Type Medium
+ID 44078
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_ID 44000
+Condition_0_Value 20
+Condition_0_Logic Not_Equal
+Condition_0_Allow_Unset
+
+Exclude_From_Master_Bundle

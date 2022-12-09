@@ -1,0 +1,60 @@
+{
+	"Creators":
+	[
+		"\"TheNutMan\"",
+	],
+	"Collaborators":
+	[
+		"\"clue\"","\"Renaxon\"","\"Torqs\"","\"WWTC\"",
+	],
+	"Thanks":
+	[
+        "\"Letgalian\"","\"Vilespring\"","\"Canis Lupus\"","\"KaktusKopf\""
+	],
+	"Tips": 12,
+	"Use_Legacy_Water": false,
+	"Has_Global_Electricity": true,
+	"PlayerUI_StaminaVisible": false,
+	"PlayerUI_OxygenVisible": false,
+	"PlayerUI_VirusVisible": false,
+	"PlayerUI_GunVisible": false,
+	"Is_Aurora_Borealis_Visible": true,
+	"Feedback": "https://discord.gg/aExDaHY",
+	"Version": "3.0.2.0",
+	"Asset": { "GUID": "61ea309d441d460eac4b4327772db615" },
+	"Spawn_Loadouts":
+	[
+		
+		{       
+			"Table_ID": 9874,
+			"Amount": 2
+		},
+		{       
+			"Table_ID": 9875,
+			"Amount": 2
+		},
+		{       
+			"Table_ID": 9876,
+			"Amount": 1
+		},
+		{       
+			"Table_ID": 9872,
+			"Amount": 1
+		},
+		{       
+			"Table_ID": 9873,
+			"Amount": 1
+		}
+	],
+	"Trains":
+	[
+		{
+			"VehicleID": 186,
+			"RoadIndex": 1
+		},
+		{
+			"VehicleID": 187,
+			"RoadIndex": 112
+		}
+	]
+}

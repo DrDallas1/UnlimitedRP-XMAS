@@ -1,0 +1,19 @@
+GUID 2a1446e7396b4a8fbb909667c6391bea
+Type Medium
+ID 47852
+
+Interactability Dropper
+Interactability_Delay 1200
+Interactability_Hint Use
+Interactability_Conditions 1
+Interactability_Condition_0_Type Item
+Interactability_Condition_0_ID 1032
+Interactability_Condition_0_Amount 1
+Interactability_Condition_0_Logic Greater_Than_Or_Equal_To
+Interactability_Rewards 1
+Interactability_Reward_0_Type Item
+Interactability_Reward_0_ID 20011
+Interactability_Reward_0_Amount 3
+
+Asset_Bundle_Version 2
+Exclude_From_Master_Bundle
