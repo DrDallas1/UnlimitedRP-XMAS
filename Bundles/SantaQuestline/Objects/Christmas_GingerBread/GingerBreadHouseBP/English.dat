@@ -1,10 +1,10 @@
 Name NLX_XMAS_GingerBreadHouse_BP
-Interactability_Condition_0 You do not have the necessary ingredients to bake the cake.
-Interactability_Condition_1 You do not have the necessary ingredients to bake the cake.
-Interactability_Condition_2 You do not have the necessary ingredients to bake the cake.
-Interactability_Condition_3 You do not have the necessary ingredients to bake the cake.
-Interactability_Condition_4 You do not have the necessary ingredients to bake the cake.
-Interactability_Condition_5 You do not have the necessary ingredients to bake the cake.
-Interactability_Condition_6 You do not have the necessary ingredients to bake the cake.
+Interactability_Condition_0 Missing Ingredients.
+Interactability_Condition_1 Missing Ingredients.
+Interactability_Condition_2 Missing Ingredients.
+Interactability_Condition_3 Missing Ingredients.
+Interactability_Condition_4 Missing Ingredients.
+Interactability_Condition_5 Missing Ingredients.
+Interactability_Condition_6 Missing Ingredients.
 Interactability_Condition_7 You need to take the "Gingerbread Mansion" quest.
 Interact Bake the Cake.

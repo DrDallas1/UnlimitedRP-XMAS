@@ -7,5 +7,8 @@ Size_X 2
 Size_Y 2
 Size_Z 0.3
 
+Width 8
+Height 6
+
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Shirts/Gingerbread_Top
