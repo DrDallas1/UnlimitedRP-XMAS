@@ -101,7 +101,7 @@ Response_2_Reward_0_ID 12097
 Response_2_Reward_0_Value 2
 Response_2_Reward_0_Modification Assign
 Response_2_Reward_1_Type Item
-Response_2_Reward_1_ID 20511
+Response_2_Reward_1_ID 57316
 Response_2_Reward_1_Amount 1
 //-------------------------------------------------
 // Response 3
@@ -229,7 +229,7 @@ Response_6_Reward_0_ID 12097
 Response_6_Reward_0_Value 8
 Response_6_Reward_0_Modification Assign
 Response_6_Reward_1_Type Item
-Response_6_Reward_1_ID 20511
+Response_6_Reward_1_ID 12213
 Response_6_Reward_1_Amount 1
 //-------------------------------------------------
 // Response 7
@@ -293,7 +293,7 @@ Response_8_Reward_0_ID 12097
 Response_8_Reward_0_Value 15
 Response_8_Reward_0_Modification Assign
 Response_8_Reward_1_Type Item
-Response_8_Reward_1_ID 20511
+Response_8_Reward_1_ID 12211
 Response_8_Reward_1_Amount 1
 //-------------------------------------------------
 // Response 9
@@ -325,7 +325,7 @@ Response_9_Reward_0_ID 12097
 Response_9_Reward_0_Value 20
 Response_9_Reward_0_Modification Assign
 Response_9_Reward_1_Type Item
-Response_9_Reward_1_ID 20511
+Response_9_Reward_1_ID 57717
 Response_9_Reward_1_Amount 1
 //-------------------------------------------------
 // Response 10
@@ -351,14 +351,19 @@ Response_10_Condition_2_ID 12097
 Response_10_Condition_2_Value 20
 
 // Says you have taken the "Tenth" reward.
-Response_10_Rewards 2
+Response_10_Rewards 3
 Response_10_Reward_0_Type Flag_Short
 Response_10_Reward_0_ID 12097
 Response_10_Reward_0_Value 25
 Response_10_Reward_0_Modification Assign
 Response_10_Reward_1_Type Item
-Response_10_Reward_1_ID 20511
+Response_10_Reward_1_ID 57711
 Response_10_Reward_1_Amount 1
+Response_10_Reward_2_Type Flag_Short
+Response_10_Reward_2_ID 12116
+Response_10_Reward_2_Value 1
+Response_10_Reward_2_Modification Assign
+
 //-------------------------------------------------
 // Response 11
 Response_11_Dialogue 12099
@@ -389,8 +394,10 @@ Response_11_Reward_0_ID 12097
 Response_11_Reward_0_Value 26
 Response_11_Reward_0_Modification Assign
 Response_11_Reward_1_Type Item
-Response_11_Reward_1_ID 20511
+Response_11_Reward_1_ID 12212
 Response_11_Reward_1_Amount 1
+
+
 //-------------------------------------------------
 // Response 12
 Response_12_Dialogue 12099
@@ -421,7 +428,7 @@ Response_12_Reward_0_ID 12097
 Response_12_Reward_0_Value 27
 Response_12_Reward_0_Modification Assign
 Response_12_Reward_1_Type Item
-Response_12_Reward_1_ID 20511
+Response_12_Reward_1_ID 12214
 Response_12_Reward_1_Amount 1
 //-------------------------------------------------
 // Response 13
@@ -453,7 +460,7 @@ Response_13_Reward_0_ID 12097
 Response_13_Reward_0_Value 28
 Response_13_Reward_0_Modification Assign
 Response_13_Reward_1_Type Item
-Response_13_Reward_1_ID 20511
+Response_13_Reward_1_ID 12215
 Response_13_Reward_1_Amount 1
 //-------------------------------------------------
 // Response 14
