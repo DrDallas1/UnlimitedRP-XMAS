@@ -197,14 +197,17 @@ Response_5_Condition_2_ID 12097
 Response_5_Condition_2_Value 3
 
 // Says you have taken the "Fifth" reward.
-Response_5_Rewards 2
+Response_5_Rewards 3
 Response_5_Reward_0_Type Flag_Short
 Response_5_Reward_0_ID 12097
 Response_5_Reward_0_Value 5
 Response_5_Reward_0_Modification Assign
 Response_5_Reward_1_Type Item
-Response_5_Reward_1_ID 20511
+Response_5_Reward_1_ID 12217
 Response_5_Reward_1_Amount 1
+Response_5_Reward_2_Type Item
+Response_5_Reward_2_ID 12220
+Response_5_Reward_2_Amount 1
 //-------------------------------------------------
 // Response 6
 Response_6_Dialogue 12099
