@@ -532,8 +532,8 @@ Response_15_Reward_0_Type Flag_Short
 Response_15_Reward_0_ID 12096
 Response_15_Reward_0_Value 500
 Response_15_Reward_0_Modification Assign
-Response_15_Reward_1_Type Item
-Response_15_Reward_1_ID 20511
+Response_15_Reward_1_Type Flag_Short
+Response_15_Reward_1_ID 12117
 Response_15_Reward_1_Amount 1
 Response_15_Reward_2_Type Flag_Short
 Response_15_Reward_2_ID 12097

@@ -1,0 +1,28 @@
+GUID 678984f75b4d4e04b43eda9161bb3956
+
+Type Dialogue
+ID 12118
+
+Messages 1
+Message_0_Pages 1
+Message_0_Conditions 1
+Message_0_Condition_0_Type Flag_Short
+Message_0_Condition_0_ID 12117
+Message_0_Condition_0_Value 1
+Message_0_Condition_0_Logic Equal
+
+Responses 2
+Response_0_Dialogue 0
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Short
+Response_0_Condition_0_Value 1
+Response_0_Condition_0_ID 12117
+Response_0_Condition_0_Logic Equal
+Response_0_Rewards 2
+Response_0_Reward_0_Type Flag_Short
+Response_0_Reward_0_ID 12117
+Response_0_Reward_0_Value 0
+Response_0_Reward_0_Modification Assign
+Response_0_Reward_1_Type Vehicle
+Response_0_Reward_1_ID 20004
+Response_0_Reward_1_Spawnpoint Airport

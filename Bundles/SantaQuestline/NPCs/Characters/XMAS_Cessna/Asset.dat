@@ -1,0 +1,21 @@
+GUID 7d94ad52bc5848f19dcf00b65d080f6f
+
+Type NPC
+ID 12836
+
+Face 1
+Color_Skin #FFD5C3
+Color_Hair #FBF2FE
+Hat 1359
+Shirt 279
+Pants 280
+Beard 8
+
+Conditions 1
+Condition_0_Type Flag_Short
+Condition_0_Logic Equal
+Condition_0_ID 12117
+Condition_0_Value 1
+
+// Welcome
+Dialogue 12026
