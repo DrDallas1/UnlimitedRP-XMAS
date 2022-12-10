@@ -1,0 +1,14 @@
+GUID 9cf9654c39164e8280071fe0bdc63b51
+
+Type Glasses
+ID 12220
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Hair
+Beard
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Glasses/Carrot

@@ -1,0 +1,16 @@
+GUID e2fd6593e73e4428b3ff5bd8102ad22d
+
+Type Shirt
+ID 12218
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Width 8
+Height 6
+
+Armor 0.8
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Shirts/Snowman_Top

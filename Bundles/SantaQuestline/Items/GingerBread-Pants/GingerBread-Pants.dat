@@ -10,5 +10,7 @@ Size_Z 0.3
 Width 5
 Height 4
 
+Armor 0.8
+
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Pants/Gingerbread_Bottom

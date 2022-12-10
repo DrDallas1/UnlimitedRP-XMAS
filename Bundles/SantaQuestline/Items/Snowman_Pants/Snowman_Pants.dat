@@ -1,0 +1,16 @@
+GUID 867d2b88ffc64da384972cc7f0650b24
+
+Type Pants
+ID 12219
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Width 5
+Height 4
+
+Armor 0.8
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Pants/Snowman_Bottom

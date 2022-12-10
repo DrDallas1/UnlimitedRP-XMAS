@@ -127,14 +127,17 @@ Response_3_Condition_2_ID 12097
 Response_3_Condition_2_Value 2
 
 // Says you have taken the "Third" reward.
-Response_3_Rewards 2
+Response_3_Rewards 3
 Response_3_Reward_0_Type Flag_Short
 Response_3_Reward_0_ID 12097
 Response_3_Reward_0_Value 3
 Response_3_Reward_0_Modification Assign
 Response_3_Reward_1_Type Item
-Response_3_Reward_1_ID 20511
+Response_3_Reward_1_ID 12218
 Response_3_Reward_1_Amount 1
+Response_3_Reward_2_Type Item
+Response_3_Reward_2_ID 12219
+Response_3_Reward_2_Amount 1
 //-------------------------------------------------
 // Response 4
 Response_4_Dialogue 12099
@@ -159,14 +162,17 @@ Response_4_Condition_2_ID 12097
 Response_4_Condition_2_Value 3
 
 // Says you have taken the "Fourth" reward.
-Response_4_Rewards 2
+Response_4_Rewards 3
 Response_4_Reward_0_Type Flag_Short
 Response_4_Reward_0_ID 12097
 Response_4_Reward_0_Value 4
 Response_4_Reward_0_Modification Assign
 Response_4_Reward_1_Type Item
-Response_4_Reward_1_ID 20511
+Response_4_Reward_1_ID 12219
 Response_4_Reward_1_Amount 1
+Response_4_Reward_2_Type Item
+Response_4_Reward_2_ID 12220
+Response_4_Reward_2_Amount 1
 //-------------------------------------------------
 // Response 5
 Response_5_Dialogue 12099
@@ -357,7 +363,7 @@ Response_10_Reward_0_ID 12097
 Response_10_Reward_0_Value 25
 Response_10_Reward_0_Modification Assign
 Response_10_Reward_1_Type Item
-Response_10_Reward_1_ID 57711
+Response_10_Reward_1_ID 12216
 Response_10_Reward_1_Amount 1
 Response_10_Reward_2_Type Flag_Short
 Response_10_Reward_2_ID 12116
