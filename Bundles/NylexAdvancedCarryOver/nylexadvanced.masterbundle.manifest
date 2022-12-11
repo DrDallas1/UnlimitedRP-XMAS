@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2787544456
+CRC: 660692028
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e1e2cebfa8a1a8a531c25d88e43d9ad9
+    Hash: aad0a7db4ff497cb02b955a2e8ed4d7d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12d7868adbdd0aec111104579e646399
@@ -140,6 +140,7 @@ Assets:
 - Assets/Nylex/JewelryStore/DisplayCases/Base/LargeDiamondBase/Nav.prefab
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/UCJewellerCurvedGlassOBJ.fbx
 - Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateClosed/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlinePresents/ChristmasQuestlinePresentsImage.png
 - Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_2/Christmas_Music_Mesh_2.ogg
 - Assets/Nylex/Effects/DrillSetupSound/DrillSetupSoundEffect.ogg
 - Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2/Clip.prefab
@@ -155,6 +156,7 @@ Assets:
 - Assets/Nylex/PRODEF/Escape/EscapeMarker/Object.prefab
 - Assets/Nylex/Testing/SniperBlock/Object.prefab
 - Assets/Nylex/PRODEF/Computers/ComputerTrue/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineGingerBread/GingerBreadHouseImagePro.png
 - Assets/Nylex/JailSystem/Objects/Buttons/Notepad/Nav.prefab
 - Assets/Nylex/Assets/PRODEF/Etc/ThermalP/UThermalPasteTex.mat
 - Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateBlueprint/Clip.prefab
@@ -184,6 +186,7 @@ Assets:
 - Assets/Nylex/Objects/MapNonCriminal/Object.prefab
 - Assets/Nylex/Assets/PRODEF/Keycards/Materials/UKeyCard2tex3.mat
 - Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Iron.mat
+- Assets/Nylex/Items/GingerBreadHouseBarricade/Barricade.prefab
 - Assets/Nylex/Assets/Questlines/Strength/Quest 6/USaplingTex.png
 - Assets/Nylex/Questlines/Hierophant/Quest 8/JackHammerCrateClosed/Clip.prefab
 - Assets/Nylex/PRODEF/Effects/Notification/ABeeZee-Regular.ttf
@@ -255,6 +258,8 @@ Assets:
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Watches/UCJewellerWatchesArmature.fbx
 - Assets/Nylex/Questlines/Hierophant/General/Nodes/Carbon/Resource.prefab
 - Assets/Nylex/Questlines/Hierophant/General/10Ingots/10IronIngots/Item.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineSnowmobile/image-removebg-preview
+  (36).mat
 - Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_6/Object.prefab
 - Assets/Nylex/PRODEF/Etc/ThermalP/Clip.prefab
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/Rings/UCJewellerRings(1).fbx
@@ -263,6 +268,8 @@ Assets:
 - Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor1/Clip.prefab
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/Glass/Broken/UCJeweller Necklace(4x1)Broken(3).fbx
 - Assets/Nylex/Assets/PRODEF/Escape/VanDoor2/UVanDoor5.fbx
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineRudolf/image-removebg-preview
+  (36).mat
 - Assets/Nylex/Meltdown/Effects/Notification/Effect.prefab
 - Assets/Nylex/PRODEF/Safes/SafeDoors/SmallSafeDoor1/Nav.prefab
 - Assets/Nylex/Assets/PRODEF/Drills/DrillWithAnims1.fbx
@@ -288,6 +295,7 @@ Assets:
 - Assets/Nylex/Lootable/GoldBarItem/Item.prefab
 - Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Silver.mat
 - Assets/Nylex/Assets/JailSystem/Notepad/NotepadEwad.jpg
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineTreat/image-removebg-preview (36).mat
 - Assets/Nylex/JewelryStore/Effects/Notification/JewelryStoreNotif.controller
 - Assets/Nylex/Assets/PRODEF/Computers/UPCTex2.mat
 - Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/ChainsBag/Item.prefab
@@ -301,7 +309,9 @@ Assets:
 - Assets/Nylex/Testing/MordecaiElevatorDoorTest/Elevator_Controller.controller
 - Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Clip.prefab
 - Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/UVaultKCardReader3Tex.png
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineGingerBread/Item.prefab
 - Assets/Nylex/PRODEF/Keycards/KeycardReader1.1/Clip.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineRings/image-removebg-preview (36).mat
 - Assets/Nylex/Assets/PRODEF/Keycards/KeycardReader3/Material.002.mat
 - Assets/Nylex/JewelryStore/Items/JewelryLootable/Bags/BraceletsBag/Item.prefab
 - Assets/Nylex/Assets/Lootable/Anim/Open.anim
@@ -353,6 +363,8 @@ Assets:
 - Assets/Nylex/Questlines/Chariot/General/Drugs/Boxes/LargeBRChemicalBox/Object.prefab
 - Assets/Nylex/Questlines/Hierophant/General/Nodes/Gold/Resource_Clip.prefab
 - Assets/Nylex/Police/PoliceRespawns/PoliceRespawn5/Clip.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineFrosting/image-removebg-preview
+  (36).mat
 - Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/Barricade.prefab
 - Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor2/Object.prefab
 - Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry4/Clip.prefab
@@ -379,6 +391,7 @@ Assets:
 - Assets/Nylex/Assets/PRODEF/VaultDoor/VaultDoorSound.mp3
 - Assets/Nylex/Assets/PRODEF/Etc/JailVaultDoor/Close.anim
 - Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2.1/Anims/Open.anim
+- Assets/Nylex/Items/GingerBreadHouseBarricade/Animations.prefab
 - Assets/Nylex/PRODEF/Keycards/Keycard2/Clip.prefab
 - Assets/Nylex/PRODEF/Keycards/KeycardReader3/Clip.prefab
 - Assets/Nylex/Questlines/Strength/Quest 3/StrengthQuest3Placed/Nav.prefab
@@ -447,6 +460,7 @@ Assets:
 - Assets/Nylex/Assets/Questlines/Strength/Quest 10/UCLumberHelmTex3.mat
 - Assets/Nylex/Assets/PRODEF/Police/UCPoliceBoardTex (3).png
 - Assets/Nylex/JewelryStore/DisplayCases/Lootable/LargeDiamondStack/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineRings/ChristmasRingsImage.png
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBox/UCJewellerRingBoxAlone(2).fbx
 - Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Barricade.prefab
 - Assets/Nylex/Assets/JewelryStore/Items/JewelryLootable/Bags/Materials/ULootBagTex3-2.mat
@@ -537,6 +551,7 @@ Assets:
 - Assets/Nylex/JailSystem/Objects/Buttons/Buttons1P/Button1P4/Object.prefab
 - Assets/Nylex/Questlines/Strength/Quest 8/ChainSawCrateBlueprint/Nav.prefab
 - Assets/Nylex/JewelryStore/DisplayCases/Base/Necklaces(2x1)/Nav.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineRudolf/RudolfProImage.png
 - Assets/Nylex/Assets/PRODEF/Keycards/KeycardReaderAnim/Open.anim
 - Assets/Nylex/Assets/PRODEF/VaultDoor/Fuckingworkingarmafuck (5).fbx
 - Assets/Nylex/Assets/Questlines/Chariot/General/Warehouse/ChemistryStation/Chemical.mat
@@ -589,6 +604,7 @@ Assets:
 - Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader2/Anims/Close.anim
 - Assets/Nylex/Questlines/Strength/Quest 6/Sapling/Nav.prefab
 - Assets/Nylex/Assets/Questlines/Chariot/General/Mexico/CementMixer/UCDrugConcreteMixerDoneOBJ(4).fbx
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineFrosting/Item.prefab
 - Assets/Nylex/VehicleShop/Items/AmbulanceRAllow/Ambulance-R-Allow.png
 - Assets/Nylex/JewelryStore/Effects/Notification/NewImages/Meltdown_Upscale.png
 - Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4.1/Nav.prefab
@@ -604,6 +620,8 @@ Assets:
 - Assets/Nylex/Assets/PRODEF/Etc/ThermalPCase/UThermalPasteCase (2).fbx
 - Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/BloomeryOutput/Nav.prefab
 - Assets/Nylex/Assets/PRODEF/Keycards/PRODEFKeycard1.fbx
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineGingerBread/image-removebg-preview
+  (36).mat
 - Assets/Nylex/Questlines/Hierophant/General/Nodes/Carbon/Resource_Clip.prefab
 - Assets/Nylex/JewelryStore/DisplayCases/Base/CornerBase/Nav.prefab
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Lootable/RingBoxSimple/Silver.mat
@@ -660,11 +678,13 @@ Assets:
 - Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor3.1/Nav.prefab
 - Assets/Nylex/Effects/BloomeryOutputSteel/BloomeryOutput.anim
 - Assets/Nylex/Questlines/Strength/Quest 4/SawBlade/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlinePresents/Item.prefab
 - Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox(Simple)/Nav.prefab
 - Assets/Nylex/Assets/Objects/HiddenBookshelf/Open.anim
 - Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Ore_Copper.mat
 - Assets/Nylex/PRODEF/Etc/ThermalPCase/Object.prefab
 - Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/CurvedGlass/Nav.prefab
+- Assets/Nylex/Items/GingerBreadHouseBarricade/Item.prefab
 - Assets/Nylex/PRODEF/Keycards/KeycardReader2/Clip.prefab
 - Assets/Nylex/Lootable/GoldBarItem/Animations.prefab
 - Assets/Nylex/Objects/GGoldRingObject/Nav.prefab
@@ -815,6 +835,7 @@ Assets:
 - Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Open.anim
 - Assets/Nylex/PRODEF/LobbySystem/PreLobby/PoliceBlocker/Object.prefab
 - Assets/Nylex/JewelryStore/SafeDrill/SafeDrillStart/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineTreat/Item.prefab
 - Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/Close.anim
 - Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_4/Object.prefab
 - Assets/Nylex/JewelryStore/Reinforced/RGlassDoor1/Object.prefab
@@ -822,7 +843,9 @@ Assets:
 - Assets/Nylex/Assets/PRODEF/VaultJailDoors/Close.anim
 - Assets/Nylex/Assets/PRODEF/Etc/SewerGrate/Close.anim
 - Assets/Nylex/JewelryStore/DisplayCases/BreakableGlass/SmallForwardGlass/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineRudolf/Item.prefab
 - Assets/Nylex/Testing/OneWayBlockTest/Clip.prefab
+- Assets/Nylex/Items/GingerBreadHouseBarricade/Nav.prefab
 - Assets/Nylex/VehicleShop/Items/AmbulanceRLocked/image-removebg-preview (36).mat
 - Assets/Nylex/JailSystem/Objects/ExitSigns/ExitSignProp/Clip.prefab
 - Assets/Nylex/Questlines/Strength/Quest 6/Sapling/Clip.prefab
@@ -842,6 +865,7 @@ Assets:
 - Assets/Nylex/Assets/Objects/Subway/MainLayout/Subway.png
 - Assets/Nylex/Assets/JewelryStore/ReinforcedGlassStuff/Open.anim
 - Assets/Nylex/PRODEF/Keycards/OldKeycardReaders/KeycardReader1.1/Anims/Open.anim
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineRings/Item.prefab
 - Assets/Nylex/Assets/Questlines/Strength/Quest 4/UCLumberMillTex3.mat
 - Assets/Nylex/Assets/PRODEF/Police/Materials/UCPoliceBoardTex (4).mat
 - Assets/Nylex/Assets/PRODEF/Escape/EscapeMarker/EscapeMarker2 (1).png
@@ -914,6 +938,8 @@ Assets:
 - Assets/Nylex/Testing/MordecaiElevatorDoorTest/ElevatorDoorAnimation3.fbx
 - Assets/Nylex/VehicleShop/Items/KamazShop/Item.prefab
 - Assets/Nylex/VehicleShop/Items/AmbulanceRLocked/Ambulance-R-Locked.png
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlinePresents/image-removebg-preview
+  (36).mat
 - Assets/Nylex/Questlines/Strength/Quest 10/StrengthBarricadeDisplay/Animations.prefab
 - Assets/Nylex/PRODEF/Escape/ElevatorDoorAnim/Object.prefab
 - Assets/Nylex/PRODEF/LobbySystem/PreLobby/TeammateEntry2/TeammateEntry.mat
@@ -1027,6 +1053,7 @@ Assets:
 - Assets/Nylex/PRODEF/RewireBox/RewireBox1.1/Object.prefab
 - Assets/Nylex/JewelryStore/DisplayCases/Base/GlassOBJ/NecklaceOBJ(2x1)/Object.prefab
 - Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_5/Christmas_Music_Mesh_5.ogg
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineTreat/ChristmasTreatImage.png
 - Assets/Nylex/JewelryStore/DisplayCases/Lootable/RingBox/Nav.prefab
 - Assets/Nylex/Effects/BloomeryOutputSteel/BloomeryOutput.controller
 - Assets/Nylex/PRODEF/Keycards/KeycardReader2.1/Object.prefab
@@ -1057,6 +1084,7 @@ Assets:
 - Assets/Nylex/Assets/Questlines/Hierophant/General/10Ingots/IronIngots.fbx
 - Assets/Nylex/Assets/Questlines/Strength/Quest 3/UCLumberLog2.fbx
 - Assets/Nylex/Objects/HiddenBookshelf/HiddenBookshelfPine/HiddenBookshelf3.fbx
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineSnowmobile/ChristmasQuestlineSnowmobile.png
 - Assets/Nylex/Assets/JailSystem/Button1P5/UKeyBase.obj
 - Assets/Nylex/Items/MailboxPackage/EpicCardboard.fbx
 - Assets/Nylex/Assets/PRODEF/Escape/VanDoorRight/Material.mat
@@ -1150,6 +1178,7 @@ Assets:
 - Assets/Nylex/PRODEF/Etc/SewerGrate1.1/Nav.prefab
 - Assets/Nylex/Lootable/GoldBar/Clip.prefab
 - Assets/Nylex/PRODEF/Keycards/KeycardReader3.3/Clip.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineFrosting/TubeOfIcingProImage.png
 - Assets/Nylex/PRODEF/Safes/SafeShells/WallSafeShell/Clip.prefab
 - Assets/Nylex/Objects/Christmas_Music_Meshes/Music_Mesh_9/Object.prefab
 - Assets/Nylex/Questlines/Hierophant/General/ScrappysIronworks/CoalOneIn/Nav.prefab
@@ -1166,6 +1195,7 @@ Assets:
 - Assets/Nylex/JewelryStore/DisplayCases/Lootable/Necklaces/NecklaceBox/Object.prefab
 - Assets/Nylex/Questlines/Strength/Quest 10/StrengthHelmetSpecial/Item.prefab
 - Assets/Nylex/PRODEF/VaultJailDoors/VaultJailDoor4.1/Object.prefab
+- Assets/Nylex/VehicleShop/Items/ChristmasQuestlineSnowmobile/Item.prefab
 - Assets/Nylex/Questlines/Strength/Quest 6/SaplingBlueprint/Object.prefab
 - Assets/Nylex/Assets/JewelryStore/DisplayCases/Base/UCJewellerSmallForwardBase.fbx
 - Assets/Nylex/Assets/Questlines/Hierophant/General/Ores/Carbon.mat
