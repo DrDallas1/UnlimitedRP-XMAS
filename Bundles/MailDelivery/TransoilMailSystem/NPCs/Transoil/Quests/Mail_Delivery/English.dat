@@ -1,4 +1,0 @@
-Name Delivery Man
-Description <color=uncommon>The Transoil Union</color> gave you a job to deliver a package. Check the map, and deliver it.
-
-Condition_0 Deliver the package {0}/1
