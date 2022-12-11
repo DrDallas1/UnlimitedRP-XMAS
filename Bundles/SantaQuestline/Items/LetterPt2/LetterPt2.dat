@@ -1,0 +1,11 @@
+GUID 0972a121b58046a6be5c1e7caaaa3cd3
+
+Type Supply
+ID 12222
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Note

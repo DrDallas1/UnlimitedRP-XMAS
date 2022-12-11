@@ -495,14 +495,17 @@ Response_14_Condition_2_ID 12097
 Response_14_Condition_2_Value 28
 
 // Says you have taken the "Fourteenth" reward.
-Response_14_Rewards 2
+Response_14_Rewards 3
 Response_14_Reward_0_Type Flag_Short
 Response_14_Reward_0_ID 12097
 Response_14_Reward_0_Value 29
 Response_14_Reward_0_Modification Assign
 Response_14_Reward_1_Type Item
-Response_14_Reward_1_ID 20511
+Response_14_Reward_1_ID 12221
 Response_14_Reward_1_Amount 1
+Response_14_Reward_2_Type Item
+Response_14_Reward_2_ID 12222
+Response_14_Reward_2_Amount 1
 //-------------------------------------------------
 // Response 15
 Response_15_Dialogue 12099
